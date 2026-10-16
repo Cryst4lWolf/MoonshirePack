@@ -1,0 +1,129 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:equippable",
+    "cases": [
+      {
+        "when": {
+          "slot": "chest",
+          "asset_id": "moonshirepack:moonlight_wings"
+        },
+        "model": {
+          "type": "minecraft:condition",
+          "property": "minecraft:broken",
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "moonshirepack:item/elytra/moonlight_wings"
+          },
+          "on_true": {
+            "type": "minecraft:model",
+            "model": "moonshirepack:item/elytra/moonlight_wings_broken"
+          }
+        }
+      },
+      {
+        "when": {
+          "slot": "chest",
+          "asset_id": "moonshirepack:moonlight_wings_chestplate"
+        },
+        "model": {
+          "type": "minecraft:condition",
+          "property": "minecraft:broken",
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "moonshirepack:item/armor/moonlight/moonlight_elytra_chestplate"
+          },
+          "on_true": {
+            "type": "minecraft:model",
+            "model": "moonshirepack:item/armor/moonlight/moonlight_elytra_broken_chestplate"
+          }
+        }
+      },
+      {
+        "when": {
+          "slot": "chest",
+          "asset_id": "moonshirepack:netherite_chestplate_wings"
+        },
+        "model": {
+          "type": "minecraft:condition",
+          "property": "minecraft:broken",
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "moonshirepack:item/elytra/netherite_chestplate_elytra"
+          },
+          "on_true": {
+            "type": "minecraft:model",
+            "model": "moonshirepack:item/elytra/netherite_chestplate_elytra_broken"
+          }
+        }
+      },
+      {
+        "when": {
+          "slot": "chest",
+          "asset_id": "moonshirepack:netherite_chestplate_moonlight_wings"
+        },
+        "model": {
+          "type": "minecraft:condition",
+          "property": "minecraft:broken",
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "moonshirepack:item/elytra/netherite_chestplate_moonlight_elytra"
+          },
+          "on_true": {
+            "type": "minecraft:model",
+            "model": "moonshirepack:item/elytra/netherite_chestplate_moonlight_elytra_broken"
+          }
+        }
+      },
+      {
+        "when": {
+          "slot": "chest",
+          "asset_id": "moonshirepack:netherite_chestplate"
+        },
+        "model": {
+          "type": "minecraft:condition",
+          "property": "minecraft:broken",
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "moonshirepack:item/elytra/netherite_chestplate"
+          },
+          "on_true": {
+            "type": "minecraft:model",
+            "model": "moonshirepack:item/elytra/netherite_chestplate"
+          }
+        }
+      },
+      {
+        "when": {
+          "slot": "chest",
+          "asset_id": "moonshirepack:invisible_wings"
+        },
+        "model": {
+          "type": "minecraft:condition",
+          "property": "minecraft:broken",
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "moonshirepack:item/elytra/invis_elytra"
+          },
+          "on_true": {
+            "type": "minecraft:model",
+            "model": "moonshirepack:item/elytra/invis_elytra"
+          }
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:condition",
+      "property": "minecraft:broken",
+      "on_false": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/elytra"
+      },
+      "on_true": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/elytra_broken"
+      }
+    }
+  }
+}

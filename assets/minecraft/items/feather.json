@@ -1,0 +1,63 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "component": "minecraft:equippable",
+    "cases": [
+      {
+          "when": {
+            "slot": "legs",
+            "asset_id": "moonshirepack:invisible"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "moonshirepack:item/armor/invisible/invisible_leggings"
+          }
+        },
+        {
+          "when": {
+            "slot": "legs",
+            "asset_id": "moonshirepack:moonlight"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "moonshirepack:item/armor/moonlight/moonlight_leggings"
+          }
+        },
+        {
+          "when": {
+            "slot": "legs",
+            "asset_id": "moonshirepack:summer_swim_trunks_red"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "moonshirepack:item/summer/summer_swim_trunks_red"
+          }
+        },
+        {
+          "when": {
+            "slot": "legs",
+            "asset_id": "moonshirepack:summer_swim_trunks_blue"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "moonshirepack:item/summer/summer_swim_trunks_blue"
+          }
+        },
+        {
+          "when": {
+            "slot": "legs",
+            "asset_id": "moonshirepack:summer_skirt_pink"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "moonshirepack:item/summer/summer_skirt_pink"
+          }
+        }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/feather"
+    },
+    "property": "minecraft:component"
+  }
+}

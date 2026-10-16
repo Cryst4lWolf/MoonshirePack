@@ -1,0 +1,14 @@
+{
+  "layers": {
+        "humanoid": [
+      {
+        "texture": "minecraft:netherite"
+      }
+    ],
+    "wings": [
+      {
+        "texture": "moonshirepack:moonlight_wings"
+      }
+    ]
+  }
+}

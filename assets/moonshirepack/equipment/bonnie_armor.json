@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "moonshirepack:bonnie_armor"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "moonshirepack:bonnie_armor"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "cases": [
+      {
+        "when": "santa_hat",
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/hat/santa_hat"
+        }
+      },
+      {
+        "when": "enderdragon_plushie",
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/plushie/enderdragon_plushie"
+        }
+      },
+      {
+        "when": "summer_floatie",
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/summer/summer_floatie"
+        }
+      },
+      {
+        "when": "snorkel_hat",
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/summer/snorkel_hat"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:select",
+      "component": "minecraft:equippable",
+      "property": "minecraft:component",
+      "cases": [
+        {
+          "when": {
+            "slot": "head",
+            "asset_id": "moonshirepack:invisible"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "moonshirepack:item/armor/invisible/invisible_helmet"
+          }
+        },
+        {
+          "when": {
+            "slot": "head",
+            "asset_id": "moonshirepack:moonlight"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "moonshirepack:item/armor/moonlight/moonlight_helmet"
+          }
+        },
+        {
+          "when": {
+            "slot": "head",
+            "asset_id": "moonshirepack:summer_sunglasses"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "moonshirepack:item/summer/summer_sunglasses"
+          }
+        }
+      ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/brick"
+    }
+    }
+  }
+}

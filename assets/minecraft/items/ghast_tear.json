@@ -1,0 +1,63 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "component": "minecraft:equippable",
+    "cases": [
+      {
+          "when": {
+            "slot": "feet",
+            "asset_id": "moonshirepack:invisible"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "moonshirepack:item/armor/invisible/invisible_boots"
+          }
+        },
+        {
+          "when": {
+            "slot": "feet",
+            "asset_id": "moonshirepack:moonlight"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "moonshirepack:item/armor/moonlight/moonlight_boots"
+          }
+        },
+        {
+          "when": {
+            "slot": "feet",
+            "asset_id": "moonshirepack:summer_frenchie_floppers"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "moonshirepack:item/summer/frenchie_floppers"
+          }
+        },
+        {
+          "when": {
+            "slot": "feet",
+            "asset_id": "moonshirepack:summer_spooky_floppers"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "moonshirepack:item/summer/spooky_floppers"
+          }
+        },
+        {
+          "when": {
+            "slot": "feet",
+            "asset_id": "moonshirepack:summer_possum_floppers"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "moonshirepack:item/summer/summer_possum_floppers"
+          }
+        }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/ghast_tear"
+    },
+    "property": "minecraft:component"
+  }
+}

@@ -1,0 +1,456 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "moonshirepack:item/armor/moonlight/moonlight_leggings_body_bottom",
+		"1": "moonshirepack:item/armor/moonlight/moonlight_leggings_body_front",
+		"2": "moonshirepack:item/armor/moonlight/moonlight_leggings_body_side",
+		"3": "moonshirepack:item/armor/moonlight/moonlight_leggings_front",
+		"4": "moonshirepack:item/armor/moonlight/moonlight_leggings_side",
+		"particle": "moonshirepack:item/armor/moonlight/moonlight_leggings_body_bottom"
+	},
+	"elements": [
+		{
+			"name": "moonlight_leggings_body_bottom_0",
+			"from": [0, 18, 4],
+			"to": [16, 20, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 18, -6]},
+			"faces": {
+				"north": {"uv": [12, 12, 4, 13], "texture": "#0"},
+				"east": {"uv": [11, 12, 12, 16], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [4, 15, 12, 16], "texture": "#0"},
+				"west": {"uv": [4, 12, 5, 16], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [4, 12, 12, 16], "texture": "#0"},
+				"down": {"uv": [4, 16, 12, 12], "texture": "#0"}
+			}
+		},
+		{
+			"name": "moonlight_leggings_body_front_0",
+			"from": [0, 20, 4],
+			"to": [2, 32, 6],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-3, 20, 4]},
+			"faces": {
+				"north": {"uv": [5, 10, 4, 16], "texture": "#1"},
+				"east": {"uv": [4, 10, 5, 16], "texture": "#1"},
+				"south": {"uv": [4, 10, 5, 16], "texture": "#1"},
+				"west": {"uv": [4, 10, 5, 16], "texture": "#1"},
+				"up": {"uv": [4, 10, 5, 11], "texture": "#1"},
+				"down": {"uv": [4, 15, 5, 16], "texture": "#1"}
+			}
+		},
+		{
+			"name": "moonlight_leggings_body_front_1",
+			"from": [14, 20, 4],
+			"to": [16, 32, 6],
+			"rotation": {"angle": 0, "axis": "y", "origin": [11, 20, 4]},
+			"faces": {
+				"north": {"uv": [5, 10, 4, 16], "texture": "#1"},
+				"east": {"uv": [4, 10, 5, 16], "texture": "#1"},
+				"south": {"uv": [4, 10, 5, 16], "texture": "#1"},
+				"west": {"uv": [4, 10, 5, 16], "texture": "#1"},
+				"up": {"uv": [4, 10, 5, 11], "texture": "#1"},
+				"down": {"uv": [4, 15, 5, 16], "texture": "#1"}
+			}
+		},
+		{
+			"name": "moonlight_leggings_body_front_2",
+			"from": [2, 20, 4],
+			"to": [14, 30, 6],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 20, 4]},
+			"faces": {
+				"north": {"uv": [11, 11, 5, 16], "texture": "#1"},
+				"east": {"uv": [10, 11, 11, 16], "texture": "#1"},
+				"south": {"uv": [5, 11, 11, 16], "texture": "#1"},
+				"west": {"uv": [5, 11, 6, 16], "texture": "#1"},
+				"up": {"uv": [5, 11, 11, 12], "texture": "#1"},
+				"down": {"uv": [5, 15, 11, 16], "texture": "#1"}
+			}
+		},
+		{
+			"name": "moonlight_leggings_body_front_2",
+			"from": [14, 20, 10],
+			"to": [16, 32, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [11, 20, 10]},
+			"faces": {
+				"north": {"uv": [5, 10, 4, 16], "texture": "#1"},
+				"east": {"uv": [4, 10, 5, 16], "texture": "#1"},
+				"south": {"uv": [4, 10, 5, 16], "texture": "#1"},
+				"west": {"uv": [4, 10, 5, 16], "texture": "#1"},
+				"up": {"uv": [4, 10, 5, 11], "texture": "#1"},
+				"down": {"uv": [4, 15, 5, 16], "texture": "#1"}
+			}
+		},
+		{
+			"name": "moonlight_leggings_body_front_3",
+			"from": [2, 20, 10],
+			"to": [14, 30, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 20, 10]},
+			"faces": {
+				"north": {"uv": [11, 11, 5, 16], "texture": "#1"},
+				"east": {"uv": [10, 11, 11, 16], "texture": "#1"},
+				"south": {"uv": [5, 11, 11, 16], "texture": "#1"},
+				"west": {"uv": [5, 11, 6, 16], "texture": "#1"},
+				"up": {"uv": [5, 11, 11, 12], "texture": "#1"},
+				"down": {"uv": [5, 15, 11, 16], "texture": "#1"}
+			}
+		},
+		{
+			"name": "moonlight_leggings_body_front_1",
+			"from": [0, 20, 10],
+			"to": [2, 32, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-3, 20, 10]},
+			"faces": {
+				"north": {"uv": [5, 10, 4, 16], "texture": "#1"},
+				"east": {"uv": [4, 10, 5, 16], "texture": "#1"},
+				"south": {"uv": [4, 10, 5, 16], "texture": "#1"},
+				"west": {"uv": [4, 10, 5, 16], "texture": "#1"},
+				"up": {"uv": [4, 10, 5, 11], "texture": "#1"},
+				"down": {"uv": [4, 15, 5, 16], "texture": "#1"}
+			}
+		},
+		{
+			"name": "moonlight_leggings_body_side_0",
+			"from": [5, 20, 15],
+			"to": [9, 30, 17],
+			"rotation": {"x": 0, "y": 90, "z": 0, "origin": [0, 20, 15]},
+			"faces": {
+				"north": {"uv": [9, 11, 7, 16], "texture": "#2"},
+				"east": {"uv": [8, 11, 9, 16], "texture": "#2"},
+				"south": {"uv": [7, 11, 9, 16], "texture": "#2"},
+				"west": {"uv": [7, 11, 8, 16], "texture": "#2"},
+				"up": {"uv": [7, 11, 9, 12], "texture": "#2"},
+				"down": {"uv": [7, 15, 9, 16], "texture": "#2"}
+			}
+		},
+		{
+			"name": "moonlight_leggings_body_side_1",
+			"from": [19, 20, 15],
+			"to": [23, 30, 17],
+			"rotation": {"x": 0, "y": 90, "z": 0, "origin": [14, 20, 15]},
+			"faces": {
+				"north": {"uv": [9, 11, 7, 16], "texture": "#2"},
+				"east": {"uv": [8, 11, 9, 16], "texture": "#2"},
+				"south": {"uv": [7, 11, 9, 16], "texture": "#2"},
+				"west": {"uv": [7, 11, 8, 16], "texture": "#2"},
+				"up": {"uv": [7, 11, 9, 12], "texture": "#2"},
+				"down": {"uv": [7, 15, 9, 16], "texture": "#2"}
+			}
+		},
+		{
+			"name": "moonlight_leggings_body_side_1",
+			"from": [19, 2, 14],
+			"to": [23, 12, 16],
+			"rotation": {"x": 0, "y": 90, "z": 0, "origin": [14, 2, 14]},
+			"faces": {
+				"north": {"uv": [9, 11, 7, 16], "texture": "#2"},
+				"east": {"uv": [8, 11, 9, 16], "texture": "#2"},
+				"south": {"uv": [7, 11, 9, 16], "texture": "#2"},
+				"west": {"uv": [7, 11, 8, 16], "texture": "#2"},
+				"up": {"uv": [7, 11, 9, 12], "texture": "#2"},
+				"down": {"uv": [7, 15, 9, 16], "texture": "#2"}
+			}
+		},
+		{
+			"name": "moonlight_leggings_front_0",
+			"from": [8, 2, 10],
+			"to": [16, 18, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4, 1, 11]},
+			"faces": {
+				"north": {"uv": [10, 7, 6, 15], "texture": "#3"},
+				"east": {"uv": [9, 15, 10, 7], "texture": "#3"},
+				"south": {"uv": [6, 15, 10, 7], "texture": "#3"},
+				"west": {"uv": [6, 15, 7, 7], "texture": "#3"},
+				"up": {"uv": [6, 7, 10, 8], "texture": "#3"},
+				"down": {"uv": [6, 14, 10, 15], "texture": "#3"}
+			}
+		},
+		{
+			"name": "moonlight_leggings_front_1",
+			"from": [8, 2, 4],
+			"to": [16, 18, 6],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4, 1, 5]},
+			"faces": {
+				"north": {"uv": [10, 15, 6, 7], "texture": "#3"},
+				"east": {"uv": [9, 15, 10, 7], "texture": "#3"},
+				"south": {"uv": [6, 7, 10, 15], "texture": "#3"},
+				"west": {"uv": [6, 15, 7, 7], "texture": "#3"},
+				"up": {"uv": [6, 7, 10, 8], "texture": "#3"},
+				"down": {"uv": [6, 14, 10, 15], "texture": "#3"}
+			}
+		},
+		{
+			"name": "moonlight_leggings_front_2",
+			"from": [14, 0, 4],
+			"to": [16, 2, 6],
+			"rotation": {"angle": 0, "axis": "y", "origin": [5, 0, 4]},
+			"faces": {
+				"north": {"uv": [10, 15, 9, 16], "texture": "#3"},
+				"east": {"uv": [9, 15, 10, 16], "texture": "#3"},
+				"south": {"uv": [9, 15, 10, 16], "texture": "#3"},
+				"west": {"uv": [9, 15, 10, 16], "texture": "#3"},
+				"up": {"uv": [9, 15, 10, 16], "texture": "#3"},
+				"down": {"uv": [9, 15, 10, 16], "texture": "#3"}
+			}
+		},
+		{
+			"name": "moonlight_leggings_front_3",
+			"from": [8, 0, 4],
+			"to": [10, 2, 6],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-1, 0, 4]},
+			"faces": {
+				"north": {"uv": [10, 15, 9, 16], "texture": "#3"},
+				"east": {"uv": [9, 15, 10, 16], "texture": "#3"},
+				"south": {"uv": [9, 15, 10, 16], "texture": "#3"},
+				"west": {"uv": [9, 15, 10, 16], "texture": "#3"},
+				"up": {"uv": [9, 15, 10, 16], "texture": "#3"},
+				"down": {"uv": [9, 15, 10, 16], "texture": "#3"}
+			}
+		},
+		{
+			"name": "moonlight_leggings_front_4",
+			"from": [8, 0, 10],
+			"to": [10, 2, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-1, 0, 10]},
+			"faces": {
+				"north": {"uv": [10, 15, 9, 16], "texture": "#3"},
+				"east": {"uv": [9, 15, 10, 16], "texture": "#3"},
+				"south": {"uv": [9, 15, 10, 16], "texture": "#3"},
+				"west": {"uv": [9, 15, 10, 16], "texture": "#3"},
+				"up": {"uv": [9, 15, 10, 16], "texture": "#3"},
+				"down": {"uv": [9, 15, 10, 16], "texture": "#3"}
+			}
+		},
+		{
+			"name": "moonlight_leggings_front_5",
+			"from": [14, 0, 10],
+			"to": [16, 2, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [5, 0, 10]},
+			"faces": {
+				"north": {"uv": [10, 15, 9, 16], "texture": "#3"},
+				"east": {"uv": [9, 15, 10, 16], "texture": "#3"},
+				"south": {"uv": [9, 15, 10, 16], "texture": "#3"},
+				"west": {"uv": [9, 15, 10, 16], "texture": "#3"},
+				"up": {"uv": [9, 15, 10, 16], "texture": "#3"},
+				"down": {"uv": [9, 15, 10, 16], "texture": "#3"}
+			}
+		},
+		{
+			"name": "moonlight_leggings_front_1",
+			"from": [0, 2, 10],
+			"to": [8, 18, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-4, 1, 11]},
+			"faces": {
+				"north": {"uv": [10, 7, 6, 15], "texture": "#3"},
+				"east": {"uv": [9, 15, 10, 7], "texture": "#3"},
+				"south": {"uv": [6, 15, 10, 7], "texture": "#3"},
+				"west": {"uv": [6, 15, 7, 7], "texture": "#3"},
+				"up": {"uv": [6, 7, 10, 8], "texture": "#3"},
+				"down": {"uv": [6, 14, 10, 15], "texture": "#3"}
+			}
+		},
+		{
+			"name": "moonlight_leggings_front_2",
+			"from": [0, 2, 4],
+			"to": [8, 18, 6],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-4, 1, 5]},
+			"faces": {
+				"north": {"uv": [10, 15, 6, 7], "texture": "#3"},
+				"east": {"uv": [9, 15, 10, 7], "texture": "#3"},
+				"south": {"uv": [6, 7, 10, 15], "texture": "#3"},
+				"west": {"uv": [6, 15, 7, 7], "texture": "#3"},
+				"up": {"uv": [6, 7, 10, 8], "texture": "#3"},
+				"down": {"uv": [6, 14, 10, 15], "texture": "#3"}
+			}
+		},
+		{
+			"name": "moonlight_leggings_front_3",
+			"from": [6, 0, 4],
+			"to": [8, 2, 6],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-3, 0, 4]},
+			"faces": {
+				"north": {"uv": [10, 15, 9, 16], "texture": "#3"},
+				"east": {"uv": [9, 15, 10, 16], "texture": "#3"},
+				"south": {"uv": [9, 15, 10, 16], "texture": "#3"},
+				"west": {"uv": [9, 15, 10, 16], "texture": "#3"},
+				"up": {"uv": [9, 15, 10, 16], "texture": "#3"},
+				"down": {"uv": [9, 15, 10, 16], "texture": "#3"}
+			}
+		},
+		{
+			"name": "moonlight_leggings_front_4",
+			"from": [0, 0, 4],
+			"to": [2, 2, 6],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-9, 0, 4]},
+			"faces": {
+				"north": {"uv": [10, 15, 9, 16], "texture": "#3"},
+				"east": {"uv": [9, 15, 10, 16], "texture": "#3"},
+				"south": {"uv": [9, 15, 10, 16], "texture": "#3"},
+				"west": {"uv": [9, 15, 10, 16], "texture": "#3"},
+				"up": {"uv": [9, 15, 10, 16], "texture": "#3"},
+				"down": {"uv": [9, 15, 10, 16], "texture": "#3"}
+			}
+		},
+		{
+			"name": "moonlight_leggings_front_5",
+			"from": [0, 0, 10],
+			"to": [2, 2, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-9, 0, 10]},
+			"faces": {
+				"north": {"uv": [10, 15, 9, 16], "texture": "#3"},
+				"east": {"uv": [9, 15, 10, 16], "texture": "#3"},
+				"south": {"uv": [9, 15, 10, 16], "texture": "#3"},
+				"west": {"uv": [9, 15, 10, 16], "texture": "#3"},
+				"up": {"uv": [9, 15, 10, 16], "texture": "#3"},
+				"down": {"uv": [9, 15, 10, 16], "texture": "#3"}
+			}
+		},
+		{
+			"name": "moonlight_leggings_front_6",
+			"from": [6, 0, 10],
+			"to": [8, 2, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-3, 0, 10]},
+			"faces": {
+				"north": {"uv": [10, 15, 9, 16], "texture": "#3"},
+				"east": {"uv": [9, 15, 10, 16], "texture": "#3"},
+				"south": {"uv": [9, 15, 10, 16], "texture": "#3"},
+				"west": {"uv": [9, 15, 10, 16], "texture": "#3"},
+				"up": {"uv": [9, 15, 10, 16], "texture": "#3"},
+				"down": {"uv": [9, 15, 10, 16], "texture": "#3"}
+			}
+		},
+		{
+			"name": "moonlight_leggings_side_0",
+			"from": [8, 2, 0],
+			"to": [12, 18, 2],
+			"rotation": {"x": 0, "y": -90, "z": 0, "origin": [2, 1, 0]},
+			"faces": {
+				"north": {"uv": [9, 7, 7, 15], "texture": "#4"},
+				"east": {"uv": [8, 7, 9, 15], "texture": "#4"},
+				"south": {"uv": [7, 15, 9, 7], "texture": "#4"},
+				"west": {"uv": [7, 7, 8, 15], "texture": "#4"},
+				"up": {"uv": [9, 7, 7, 8], "texture": "#4"},
+				"down": {"uv": [7, 14, 9, 15], "texture": "#4"}
+			}
+		},
+		{
+			"name": "moonlight_leggings_side_1",
+			"from": [14, 2, 0],
+			"to": [18, 18, 2],
+			"rotation": {"x": 0, "y": -90, "z": 0, "origin": [8, 1, 0]},
+			"faces": {
+				"north": {"uv": [9, 15, 7, 7], "texture": "#4"},
+				"east": {"uv": [8, 7, 9, 15], "texture": "#4"},
+				"south": {"uv": [7, 7, 9, 15], "texture": "#4"},
+				"west": {"uv": [7, 7, 8, 15], "texture": "#4"},
+				"up": {"uv": [7, 7, 9, 8], "texture": "#4"},
+				"down": {"uv": [7, 14, 9, 15], "texture": "#4"}
+			}
+		},
+		{
+			"name": "moonlight_leggings_side_2",
+			"from": [22, 2, 0],
+			"to": [26, 18, 2],
+			"rotation": {"x": 0, "y": -90, "z": 0, "origin": [16, 1, 0]},
+			"faces": {
+				"north": {"uv": [9, 15, 7, 7], "texture": "#4"},
+				"east": {"uv": [8, 7, 9, 15], "texture": "#4"},
+				"south": {"uv": [7, 7, 9, 15], "texture": "#4"},
+				"west": {"uv": [7, 7, 8, 15], "texture": "#4"},
+				"up": {"uv": [7, 7, 9, 8], "texture": "#4"},
+				"down": {"uv": [7, 14, 9, 15], "texture": "#4"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [90, 0, 0],
+			"translation": [0, -1.75, -6],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [90, 0, 0],
+			"translation": [0, -1.75, -6],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"firstperson_righthand": {
+			"rotation": [15, -2.5, 0],
+			"translation": [-1.5, 1.25, 1.5],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"firstperson_lefthand": {
+			"rotation": [15, -2.5, 0],
+			"translation": [-1.5, 1.25, 1.5],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"ground": {
+			"translation": [0, 2.5, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"gui": {
+			"rotation": [15, 135, 0],
+			"translation": [0.25, -3, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"head": {
+			"translation": [0, 1.75, 0]
+		},
+		"fixed": {
+			"translation": [0, -4, 1],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"on_shelf": {
+			"scale": [0.55, 0.55, 0.55]
+		}
+	},
+	"groups": [
+		{
+			"name": "moonlight_leggings_body_bottom",
+			"origin": [8, 8, 8],
+			"scope": 0,
+			"color": 0,
+			"children": [0]
+		},
+		{
+			"name": "moonlight_leggings_body_front",
+			"origin": [8, 8, 8],
+			"scope": 0,
+			"color": 0,
+			"children": [1, 2, 3, 4, 5, 6]
+		},
+		{
+			"name": "moonlight_leggings_body_side",
+			"origin": [8, 8, 8],
+			"scope": 0,
+			"color": 0,
+			"children": [7, 8]
+		},
+		{
+			"name": "moonlight_leggings_body_side",
+			"origin": [8, 8, 8],
+			"scope": 0,
+			"color": 0,
+			"children": [9]
+		},
+		{
+			"name": "moonlight_leggings_front",
+			"origin": [8, 8, 8],
+			"scope": 0,
+			"color": 0,
+			"children": [10, 11, 12, 13, 14, 15]
+		},
+		{
+			"name": "moonlight_leggings_front",
+			"origin": [8, 8, 8],
+			"scope": 0,
+			"color": 0,
+			"children": [16, 17, 18, 19, 20, 21]
+		},
+		{
+			"name": "moonlight_leggings_side",
+			"origin": [8, 8, 8],
+			"scope": 0,
+			"color": 0,
+			"children": [22, 23, 24]
+		}
+	]
+}

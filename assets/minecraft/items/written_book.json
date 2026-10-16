@@ -1,0 +1,1171 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:written_book_content",
+    "cases": [
+      {
+        "when": {
+          "pages": [
+            {
+              "raw": "Elven Archer, Mort Myth"
+            }
+          ],
+          "title": {
+            "raw": "Elf Archer Mort"
+          },
+          "author": "SpookyDreamers",
+          "resolved": true
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/cards/staff/mort/elven_archer_mort_myt"
+        }
+      },
+            {
+        "when": {
+          "pages": [
+            {
+              "raw": "Elven Archer, Mort Serial Myth"
+            }
+          ],
+          "title": {
+            "raw": "Elf Archer Mort"
+          },
+          "author": "SpookyDreamers",
+          "generation": 0,
+          "resolved": true
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/cards/staff/mort/elven_archer_mort_serial_myt"
+        }
+      },
+                  {
+        "when": {
+          "pages": [
+            {
+              "raw": "Elven Archer, Mort Myth Full"
+            }
+          ],
+          "title": {
+            "raw": "Elf Archer Mort"
+          },
+          "author": "SpookyDreamers",
+          "generation": 0,
+          "resolved": true
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/cards/staff/mort/elven_archer_mort_myt_full"
+        }
+      },
+                  {
+        "when": {
+          "pages": [
+            {
+              "raw": "Elven Archer, Mort Serial Myth Full"
+            }
+          ],
+          "title": {
+            "raw": "Elf Archer Mort"
+          },
+          "author": "SpookyDreamers",
+          "generation": 0,
+          "resolved": true
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/cards/staff/mort/elven_archer_mort_serial_myt_full"
+        }
+      },
+                  {
+        "when": {
+          "pages": [
+            {
+              "raw": "The Rahhing Kitty Myth"
+            }
+          ],
+          "title": {
+            "raw": "Rahhing Kitty"
+          },
+          "author": "SpookyDreamers",
+          "generation": 0,
+          "resolved": true
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/cards/staff/kitty/the_rahhing_kitty_myt"
+        }
+      },
+      {
+        "when": {
+          "pages": [
+            {
+              "raw": "The Rahhing Kitty Serial Myth"
+            }
+          ],
+          "title": {
+            "raw": "Rahhing Kitty"
+          },
+          "author": "SpookyDreamers",
+          "generation": 0,
+          "resolved": true
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/cards/staff/kitty/the_rahhing_kitty_serial_myt"
+        }
+      },
+      {
+        "when": {
+          "pages": [
+            {
+              "raw": "The Rahhing Kitty Myth Full"
+            }
+          ],
+          "title": {
+            "raw": "Rahhing Kitty"
+          },
+          "author": "SpookyDreamers",
+          "generation": 0,
+          "resolved": true
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/cards/staff/kitty/the_rahhing_kitty_myt_full"
+        }
+      },
+      {
+        "when": {
+          "pages": [
+            {
+              "raw": "The Rahhing Kitty Serial Myth Full"
+            }
+          ],
+          "title": {
+            "raw": "Rahhing Kitty"
+          },
+          "author": "SpookyDreamers",
+          "generation": 0,
+          "resolved": true
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/cards/staff/kitty/the_rahhing_kitty_serial_myt_full"
+        }
+      },
+      {
+        "when": {
+          "pages": [
+            {
+              "raw": "Death Denier Jakob Myt"
+            }
+          ],
+          "title": {
+            "raw": "Death Denier"
+          },
+          "author": "SpookyDreamers",
+          "generation": 0,
+          "resolved": true
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/cards/staff/jakob/death_denier_jakob_myt"
+        }
+      },
+      {
+        "when": {
+          "pages": [
+            {
+              "raw": "Death Denier Jakob Serial Myt"
+            }
+          ],
+          "title": {
+            "raw": "Death Denier"
+          },
+          "author": "SpookyDreamers",
+          "generation": 0,
+          "resolved": true
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/cards/staff/jakob/death_denier_jakob_serial_myt"
+        }
+      },
+      {
+        "when": {
+          "pages": [
+            {
+              "raw": "Death Denier Jakob Myt Full"
+            }
+          ],
+          "title": {
+            "raw": "Death Denier"
+          },
+          "author": "SpookyDreamers",
+          "generation": 0,
+          "resolved": true
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/cards/staff/jakob/death_denier_jakob_myt_full"
+        }
+      },
+      {
+        "when": {
+          "pages": [
+            {
+              "raw": "Death Denier Jakob Serial Myt Full"
+            }
+          ],
+          "title": {
+            "raw": "Death Denier"
+          },
+          "author": "SpookyDreamers",
+          "generation": 0,
+          "resolved": true
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/cards/staff/jakob/death_denier_jakob_serial_myt_full"
+        }
+      },
+      {
+        "when": {
+          "pages": [
+            {
+              "raw": "Frenchie Myt"
+            }
+          ],
+          "title": {
+            "raw": "Frenchie"
+          },
+          "author": "SpookyDreamers",
+          "generation": 0,
+          "resolved": true
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/cards/staff/frenchie/frenchie_myt"
+        }
+      },
+      {
+        "when": {
+          "pages": [
+            {
+              "raw": "Frenchie Serial Myt"
+            }
+          ],
+          "title": {
+            "raw": "Frenchie"
+          },
+          "author": "SpookyDreamers",
+          "generation": 0,
+          "resolved": true
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/cards/staff/frenchie/frenchie_serial_myt"
+        }
+      },
+      {
+        "when": {
+          "pages": [
+            {
+              "raw": "Frenchie Myt Full"
+            }
+          ],
+          "title": {
+            "raw": "Frenchie"
+          },
+          "author": "SpookyDreamers",
+          "generation": 0,
+          "resolved": true
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/cards/staff/frenchie/frenchie_myt_full"
+        }
+      },
+      {
+        "when": {
+          "pages": [
+            {
+              "raw": "Frenchie Serial Myt Full"
+            }
+          ],
+          "title": {
+            "raw": "Frenchie"
+          },
+          "author": "SpookyDreamers",
+          "generation": 0,
+          "resolved": true
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/cards/staff/frenchie/frenchie_serial_myt_full"
+        }
+      },
+      {
+        "when": {
+          "pages": [
+            {
+              "raw": "Rat King Possum Myt"
+            }
+          ],
+          "title": {
+            "raw": "Rat King Possum"
+          },
+          "author": "SpookyDreamers",
+          "generation": 0,
+          "resolved": true
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/cards/staff/possum/rat_king_possum_myt"
+        }
+      },
+      {
+        "when": {
+          "pages": [
+            {
+              "raw": "Rat King Possum Serial Myt"
+            }
+          ],
+          "title": {
+            "raw": "Rat King Possum"
+          },
+          "author": "SpookyDreamers",
+          "generation": 0,
+          "resolved": true
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/cards/staff/possum/rat_king_possum_serial_myt"
+        }
+      },
+      {
+        "when": {
+          "pages": [
+            {
+              "raw": "Rat King Possum Myt Full"
+            }
+          ],
+          "title": {
+            "raw": "Rat King Possum"
+          },
+          "author": "SpookyDreamers",
+          "generation": 0,
+          "resolved": true
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/cards/staff/possum/rat_king_possum_myt_full"
+        }
+      },
+      {
+        "when": {
+          "pages": [
+            {
+              "raw": "Rat King Possum Serial Myt Full"
+            }
+          ],
+          "title": {
+            "raw": "Rat King Possum"
+          },
+          "author": "SpookyDreamers",
+          "generation": 0,
+          "resolved": true
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/cards/staff/possum/rat_king_possum_serial_myt_full"
+        }
+      },
+      {
+        "when": {
+          "pages": [
+            {
+              "raw": "Coal Common"
+            }
+          ],
+          "title": {
+            "raw": "Coal Common"
+          },
+          "author": "SpookyDreamers",
+          "generation": 0,
+          "resolved": true
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/cards/ores/headline/coal/coal_common"
+        }
+      },
+      {
+        "when": {
+          "pages": [
+            {
+              "raw": "Coal Common Alt"
+            }
+          ],
+          "title": {
+            "raw": "Coal Common"
+          },
+          "author": "SpookyDreamers",
+          "generation": 0,
+          "resolved": true
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/cards/ores/headline/coal/coal_common_alt"
+        }
+      },
+      {
+        "when": {
+          "pages": [
+            {
+              "raw": "Coal Common Alt Full"
+            }
+          ],
+          "title": {
+            "raw": "Coal Common"
+          },
+          "author": "SpookyDreamers",
+          "generation": 0,
+          "resolved": true
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/cards/ores/headline/coal/coal_common_alt_full"
+        }
+      },
+      {
+        "when": {
+          "pages": [
+            {
+              "raw": "Coal Common Full"
+            }
+          ],
+          "title": {
+            "raw": "Coal Common"
+          },
+          "author": "SpookyDreamers",
+          "generation": 0,
+          "resolved": true
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/cards/ores/headline/coal/coal_common_full"
+        }
+      },
+      {
+        "when": {
+          "pages": [
+            {
+              "raw": "Copper Common"
+            }
+          ],
+          "title": {
+            "raw": "Copper Common"
+          },
+          "author": "SpookyDreamers",
+          "generation": 0,
+          "resolved": true
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/cards/ores/headline/copper/copper_common"
+        }
+      },
+      {
+        "when": {
+          "pages": [
+            {
+              "raw": "Copper Common Alt"
+            }
+          ],
+          "title": {
+            "raw": "Copper Common"
+          },
+          "author": "SpookyDreamers",
+          "generation": 0,
+          "resolved": true
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/cards/ores/headline/copper/copper_common_alt"
+        }
+      },
+      {
+        "when": {
+          "pages": [
+            {
+              "raw": "Copper Common Alt Full"
+            }
+          ],
+          "title": {
+            "raw": "Copper Common"
+          },
+          "author": "SpookyDreamers",
+          "generation": 0,
+          "resolved": true
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/cards/ores/headline/copper/copper_common_alt_full"
+        }
+      },
+      {
+        "when": {
+          "pages": [
+            {
+              "raw": "Copper Common Full"
+            }
+          ],
+          "title": {
+            "raw": "Copper Common"
+          },
+          "author": "SpookyDreamers",
+          "generation": 0,
+          "resolved": true
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/cards/ores/headline/copper/copper_common_full"
+        }
+      },
+      {
+        "when": {
+          "pages": [
+            {
+              "raw": "Diamond Legendary"
+            }
+          ],
+          "title": {
+            "raw": "Diamond Leg"
+          },
+          "author": "SpookyDreamers",
+          "generation": 0,
+          "resolved": true
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/cards/ores/headline/diamond/diamond_legendary"
+        }
+      },
+      {
+        "when": {
+          "pages": [
+            {
+              "raw": "Diamond Legendary Alt"
+            }
+          ],
+          "title": {
+            "raw": "Diamond Leg"
+          },
+          "author": "SpookyDreamers",
+          "generation": 0,
+          "resolved": true
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/cards/ores/headline/diamond/diamond_legendary_alt"
+        }
+      },
+      {
+        "when": {
+          "pages": [
+            {
+              "raw": "Diamond Legendary Alt Full"
+            }
+          ],
+          "title": {
+            "raw": "Diamond Leg"
+          },
+          "author": "SpookyDreamers",
+          "generation": 0,
+          "resolved": true
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/cards/ores/headline/diamond/diamond_legendary_alt_full"
+        }
+      },
+      {
+        "when": {
+          "pages": [
+            {
+              "raw": "Diamond Legendary Full"
+            }
+          ],
+          "title": {
+            "raw": "Diamond Leg"
+          },
+          "author": "SpookyDreamers",
+          "generation": 0,
+          "resolved": true
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/cards/ores/headline/diamond/diamond_legendary_full"
+        }
+      },
+      {
+        "when": {
+          "pages": [
+            {
+              "raw": "Emerald Legendary"
+            }
+          ],
+          "title": {
+            "raw": "Emerald Leg"
+          },
+          "author": "SpookyDreamers",
+          "generation": 0,
+          "resolved": true
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/cards/ores/headline/emerald/emerald_legendary"
+        }
+      },
+      {
+        "when": {
+          "pages": [
+            {
+              "raw": "Emerald Legendary Alt"
+            }
+          ],
+          "title": {
+            "raw": "Emerald Leg"
+          },
+          "author": "SpookyDreamers",
+          "generation": 0,
+          "resolved": true
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/cards/ores/headline/emerald/emerald_legendary_alt"
+        }
+      },
+      {
+        "when": {
+          "pages": [
+            {
+              "raw": "Emerald Legendary Alt Full"
+            }
+          ],
+          "title": {
+            "raw": "Emerald Leg"
+          },
+          "author": "SpookyDreamers",
+          "generation": 0,
+          "resolved": true
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/cards/ores/headline/emerald/emerald_legendary_alt_full"
+        }
+      },
+      {
+        "when": {
+          "pages": [
+            {
+              "raw": "Emerald Legendary Full"
+            }
+          ],
+          "title": {
+            "raw": "Emerald Leg"
+          },
+          "author": "SpookyDreamers",
+          "generation": 0,
+          "resolved": true
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/cards/ores/headline/emerald/emerald_legendary_full"
+        }
+      },
+      {
+        "when": {
+          "pages": [
+            {
+              "raw": "Gold Rare"
+            }
+          ],
+          "title": {
+            "raw": "Gold Rare"
+          },
+          "author": "SpookyDreamers",
+          "generation": 0,
+          "resolved": true
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/cards/ores/headline/gold/gold_rare"
+        }
+      },
+      {
+        "when": {
+          "pages": [
+            {
+              "raw": "Gold Rare Alt"
+            }
+          ],
+          "title": {
+            "raw": "Gold Rare"
+          },
+          "author": "SpookyDreamers",
+          "generation": 0,
+          "resolved": true
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/cards/ores/headline/gold/gold_rare_alt"
+        }
+      },
+      {
+        "when": {
+          "pages": [
+            {
+              "raw": "Gold Rare Alt Full"
+            }
+          ],
+          "title": {
+            "raw": "Gold Rare"
+          },
+          "author": "SpookyDreamers",
+          "generation": 0,
+          "resolved": true
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/cards/ores/headline/gold/gold_rare_alt_full"
+        }
+      },
+      {
+        "when": {
+          "pages": [
+            {
+              "raw": "Gold Rare Full"
+            }
+          ],
+          "title": {
+            "raw": "Gold Rare"
+          },
+          "author": "SpookyDreamers",
+          "generation": 0,
+          "resolved": true
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/cards/ores/headline/gold/gold_rare_full"
+        }
+      },
+      {
+        "when": {
+          "pages": [
+            {
+              "raw": "Iron Uncommon"
+            }
+          ],
+          "title": {
+            "raw": "Iron Unc"
+          },
+          "author": "SpookyDreamers",
+          "generation": 0,
+          "resolved": true
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/cards/ores/headline/iron/iron_uncommon"
+        }
+      },
+      {
+        "when": {
+          "pages": [
+            {
+              "raw": "Iron Uncommon Alt"
+            }
+          ],
+          "title": {
+            "raw": "Iron Unc"
+          },
+          "author": "SpookyDreamers",
+          "generation": 0,
+          "resolved": true
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/cards/ores/headline/iron/iron_uncommon_alt"
+        }
+      },
+      {
+        "when": {
+          "pages": [
+            {
+              "raw": "Iron Uncommon Alt Full"
+            }
+          ],
+          "title": {
+            "raw": "Iron Unc"
+          },
+          "author": "SpookyDreamers",
+          "generation": 0,
+          "resolved": true
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/cards/ores/headline/iron/iron_uncommon_alt_full"
+        }
+      },
+      {
+        "when": {
+          "pages": [
+            {
+              "raw": "Iron Uncommon Full"
+            }
+          ],
+          "title": {
+            "raw": "Iron Unc"
+          },
+          "author": "SpookyDreamers",
+          "generation": 0,
+          "resolved": true
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/cards/ores/headline/iron/iron_uncommon_full"
+        }
+      },
+      {
+        "when": {
+          "pages": [
+            {
+              "raw": "Lapis Uncommon"
+            }
+          ],
+          "title": {
+            "raw": "Lapis Unc"
+          },
+          "author": "SpookyDreamers",
+          "generation": 0,
+          "resolved": true
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/cards/ores/headline/lapis/lapis_uncommon"
+        }
+      },
+      {
+        "when": {
+          "pages": [
+            {
+              "raw": "Lapis Uncommon Alt"
+            }
+          ],
+          "title": {
+            "raw": "Lapis Unc"
+          },
+          "author": "SpookyDreamers",
+          "generation": 0,
+          "resolved": true
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/cards/ores/headline/lapis/lapis_uncommon_alt"
+        }
+      },
+      {
+        "when": {
+          "pages": [
+            {
+              "raw": "Lapis Uncommon Alt Full"
+            }
+          ],
+          "title": {
+            "raw": "Lapis Unc"
+          },
+          "author": "SpookyDreamers",
+          "generation": 0,
+          "resolved": true
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/cards/ores/headline/lapis/lapis_uncommon_alt_full"
+        }
+      },
+      {
+        "when": {
+          "pages": [
+            {
+              "raw": "Lapis Uncommon Full"
+            }
+          ],
+          "title": {
+            "raw": "Lapis Unc"
+          },
+          "author": "SpookyDreamers",
+          "generation": 0,
+          "resolved": true
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/cards/ores/headline/lapis/lapis_uncommon_full"
+        }
+      },
+      {
+        "when": {
+          "pages": [
+            {
+              "raw": "Netherite Myth"
+            }
+          ],
+          "title": {
+            "raw": "Netherite Myth"
+          },
+          "author": "SpookyDreamers",
+          "generation": 0,
+          "resolved": true
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/cards/ores/headline/netherite/netherite_myth"
+        }
+      },
+      {
+        "when": {
+          "pages": [
+            {
+              "raw": "Netherite Myth Alt"
+            }
+          ],
+          "title": {
+            "raw": "Netherite Myth"
+          },
+          "author": "SpookyDreamers",
+          "generation": 0,
+          "resolved": true
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/cards/ores/headline/netherite/netherite_myth_alt"
+        }
+      },
+      {
+        "when": {
+          "pages": [
+            {
+              "raw": "Netherite Myth Alt Full"
+            }
+          ],
+          "title": {
+            "raw": "Netherite Myth"
+          },
+          "author": "SpookyDreamers",
+          "generation": 0,
+          "resolved": true
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/cards/ores/headline/netherite/netherite_myth_alt_full"
+        }
+      },
+      {
+        "when": {
+          "pages": [
+            {
+              "raw": "Netherite Myth Full"
+            }
+          ],
+          "title": {
+            "raw": "Netherite Myth"
+          },
+          "author": "SpookyDreamers",
+          "generation": 0,
+          "resolved": true
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/cards/ores/headline/netherite/netherite_myth_full"
+        }
+      },
+      {
+        "when": {
+          "pages": [
+            {
+              "raw": "Quartz Common"
+            }
+          ],
+          "title": {
+            "raw": "Quartz Common"
+          },
+          "author": "SpookyDreamers",
+          "generation": 0,
+          "resolved": true
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/cards/ores/headline/quartz/quartz_common"
+        }
+      },
+      {
+        "when": {
+          "pages": [
+            {
+              "raw": "Quartz Common Alt"
+            }
+          ],
+          "title": {
+            "raw": "Quartz Common"
+          },
+          "author": "SpookyDreamers",
+          "generation": 0,
+          "resolved": true
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/cards/ores/headline/quartz/quartz_common_alt"
+        }
+      },
+      {
+        "when": {
+          "pages": [
+            {
+              "raw": "Quartz Common Alt Full"
+            }
+          ],
+          "title": {
+            "raw": "Quartz Common"
+          },
+          "author": "SpookyDreamers",
+          "generation": 0,
+          "resolved": true
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/cards/ores/headline/quartz/quartz_common_alt_full"
+        }
+      },
+      {
+        "when": {
+          "pages": [
+            {
+              "raw": "Quartz Common Full"
+            }
+          ],
+          "title": {
+            "raw": "Quartz Common"
+          },
+          "author": "SpookyDreamers",
+          "generation": 0,
+          "resolved": true
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/cards/ores/headline/quartz/quartz_common_full"
+        }
+      },
+      {
+        "when": {
+          "pages": [
+            {
+              "raw": "Redstone Rare"
+            }
+          ],
+          "title": {
+            "raw": "Redstone Rare"
+          },
+          "author": "SpookyDreamers",
+          "generation": 0,
+          "resolved": true
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/cards/ores/headline/redstone/redstone_rare"
+        }
+      },
+      {
+        "when": {
+          "pages": [
+            {
+              "raw": "Redstone Rare Alt"
+            }
+          ],
+          "title": {
+            "raw": "Redstone Rare"
+          },
+          "author": "SpookyDreamers",
+          "generation": 0,
+          "resolved": true
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/cards/ores/headline/redstone/redstone_rare_alt"
+        }
+      },
+      {
+        "when": {
+          "pages": [
+            {
+              "raw": "Redstone Rare Alt Full"
+            }
+          ],
+          "title": {
+            "raw": "Redstone Rare"
+          },
+          "author": "SpookyDreamers",
+          "generation": 0,
+          "resolved": true
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/cards/ores/headline/redstone/redstone_rare_alt_full"
+        }
+      },
+      {
+        "when": {
+          "pages": [
+            {
+              "raw": "Redstone Rare Full"
+            }
+          ],
+          "title": {
+            "raw": "Redstone Rare"
+          },
+          "author": "SpookyDreamers",
+          "generation": 0,
+          "resolved": true
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/cards/ores/headline/redstone/redstone_rare_full"
+        }
+      },
+      {
+        "when": {
+          "pages": [
+            {
+              "raw": "Netherite Chestplate Myth"
+            }
+          ],
+          "title": {
+            "raw": "Neth Chest Myth"
+          },
+          "author": "SpookyDreamers",
+          "generation": 0,
+          "resolved": true
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/cards/ores/equipment/netherite_chestplate_myth"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/written_book"
+    }
+  }
+}

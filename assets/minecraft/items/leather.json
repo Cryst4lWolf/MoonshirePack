@@ -1,0 +1,49 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:custom_model_data",
+    "cases": [
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "vertical_slab_oak"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/block/vertical_slab/vertical_slab_oak"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "cobblestone_chimney"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/block/chimney/cobblestone_chimney"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "brick_chimney_factory"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/block/chimney/brick_chimney_factory"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/leather"
+    }
+  }
+}

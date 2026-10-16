@@ -1,0 +1,172 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "moonshirepack:item/summer/summer_rubber_duck_floatie/summer_rubber_duck_floatie_front",
+		"1": "moonshirepack:item/summer/summer_rubber_duck_floatie/summer_rubber_duck_floatie_back",
+		"2": "moonshirepack:item/summer/summer_rubber_duck_floatie/summer_rubber_duck_floatie_side",
+		"particle": "moonshirepack:item/summer/summer_rubber_duck_floatie/summer_rubber_duck_floatie_front"
+	},
+	"elements": [
+		{
+			"name": "summer_pink_flamingo_floatie_front_0",
+			"from": [6, 0, 4],
+			"to": [12, 10, 6],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 4]},
+			"faces": {
+				"north": {"uv": [12, 6, 6, 16], "texture": "#0"},
+				"east": {"uv": [10, 6, 12, 16], "texture": "#0"},
+				"south": {"uv": [6, 6, 12, 16], "texture": "#0"},
+				"west": {"uv": [6, 6, 8, 16], "texture": "#0"},
+				"up": {"uv": [6, 6, 12, 8], "texture": "#0"},
+				"down": {"uv": [6, 14, 12, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "summer_pink_flamingo_floatie_front_1",
+			"from": [12, 6, 4],
+			"to": [14, 8, 6],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 4]},
+			"faces": {
+				"north": {"uv": [14, 8, 12, 10], "texture": "#0"},
+				"east": {"uv": [12, 8, 14, 10], "texture": "#0"},
+				"south": {"uv": [12, 8, 14, 10], "texture": "#0"},
+				"west": {"uv": [12, 8, 14, 10], "texture": "#0"},
+				"up": {"uv": [12, 8, 14, 10], "texture": "#0"},
+				"down": {"uv": [12, 8, 14, 10], "texture": "#0"}
+			}
+		},
+		{
+			"name": "summer_pink_flamingo_floatie_front_2",
+			"from": [0, 0, 4],
+			"to": [6, 4, 6],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 4]},
+			"faces": {
+				"north": {"uv": [6, 12, 0, 16], "texture": "#0"},
+				"east": {"uv": [4, 12, 6, 16], "texture": "#0"},
+				"south": {"uv": [0, 12, 6, 16], "texture": "#0"},
+				"west": {"uv": [0, 12, 2, 16], "texture": "#0"},
+				"up": {"uv": [0, 12, 6, 14], "texture": "#0"},
+				"down": {"uv": [0, 14, 6, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "summer_pink_flamingo_floatie_front_3",
+			"from": [12, 0, 4],
+			"to": [16, 4, 6],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 4]},
+			"faces": {
+				"north": {"uv": [16, 12, 12, 16], "texture": "#0"},
+				"east": {"uv": [14, 12, 16, 16], "texture": "#0"},
+				"south": {"uv": [12, 12, 16, 16], "texture": "#0"},
+				"west": {"uv": [12, 12, 14, 16], "texture": "#0"},
+				"up": {"uv": [12, 12, 16, 14], "texture": "#0"},
+				"down": {"uv": [12, 14, 16, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "summer_pink_flamingo_floatie_back_0",
+			"from": [0, 0, 10],
+			"to": [16, 4, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 10]},
+			"faces": {
+				"north": {"uv": [16, 12, 0, 16], "texture": "#1"},
+				"east": {"uv": [14, 12, 16, 16], "texture": "#1"},
+				"south": {"uv": [0, 12, 16, 16], "texture": "#1"},
+				"west": {"uv": [0, 12, 2, 16], "texture": "#1"},
+				"up": {"uv": [0, 12, 16, 14], "texture": "#1"},
+				"down": {"uv": [0, 14, 16, 16], "texture": "#1"}
+			}
+		},
+		{
+			"name": "summer_pink_flamingo_floatie_side_0",
+			"from": [6, 0, 16],
+			"to": [10, 4, 18],
+			"rotation": {"x": 0, "y": 90, "z": 0, "origin": [0, 0, 16]},
+			"faces": {
+				"north": {"uv": [10, 12, 6, 16], "texture": "#2"},
+				"east": {"uv": [8, 12, 10, 16], "texture": "#2"},
+				"south": {"uv": [6, 12, 10, 16], "texture": "#2"},
+				"west": {"uv": [6, 12, 8, 16], "texture": "#2"},
+				"up": {"uv": [6, 12, 10, 14], "texture": "#2"},
+				"down": {"uv": [6, 14, 10, 16], "texture": "#2"}
+			}
+		},
+		{
+			"name": "summer_pink_flamingo_floatie_side_1",
+			"from": [20, 0, 16],
+			"to": [24, 4, 18],
+			"rotation": {"x": 0, "y": 90, "z": 0, "origin": [14, 0, 16]},
+			"faces": {
+				"north": {"uv": [10, 12, 6, 16], "texture": "#2"},
+				"east": {"uv": [8, 12, 10, 16], "texture": "#2"},
+				"south": {"uv": [6, 12, 10, 16], "texture": "#2"},
+				"west": {"uv": [6, 12, 8, 16], "texture": "#2"},
+				"up": {"uv": [6, 12, 10, 14], "texture": "#2"},
+				"down": {"uv": [6, 14, 10, 16], "texture": "#2"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [90, 0, 0],
+			"translation": [0, -1.75, -1],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [90, 0, 0],
+			"translation": [0, -1.75, -1],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"firstperson_righthand": {
+			"rotation": [15, -2.5, 0],
+			"translation": [-1.5, 4, 1],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [15, -2.5, 0],
+			"translation": [-1.5, 4, 1],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"ground": {
+			"translation": [0, 2, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [15, 135, 0],
+			"translation": [0.5, 2, 0],
+			"scale": [0.65, 0.65, 0.65]
+		},
+		"head": {
+			"translation": [0, 14.25, -2.5],
+			"scale": [1.1, 1, 1.09]
+		},
+		"fixed": {
+			"translation": [0, 0, -2],
+			"scale": [0.75, 0.75, 0.75]
+		}
+	},
+	"groups": [
+		{
+			"name": "summer_pink_flamingo_floatie_front",
+			"origin": [8, 8, 8],
+			"scope": 0,
+			"color": 0,
+			"children": [0, 1, 2, 3]
+		},
+		{
+			"name": "summer_pink_flamingo_floatie_back",
+			"origin": [8, 8, 8],
+			"scope": 0,
+			"color": 0,
+			"children": [4]
+		},
+		{
+			"name": "summer_pink_flamingo_floatie_side",
+			"origin": [8, 8, 8],
+			"scope": 0,
+			"color": 0,
+			"children": [5, 6]
+		}
+	]
+}

@@ -1,0 +1,2821 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:custom_model_data",
+    "cases": [
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "santa_hat"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/hat/santa_hat"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "summer_floatie"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/summer/summer_floatie"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "enderdragon_plushie"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/plushie/enderdragon_plushie"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "potted_plant_cactus"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/plants/potted_plant_cactus"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "potted_plant_purple_flower"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/plants/potted_plant_purple_flower"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "bakuman_plushie"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/plushie/bakuman_plushie"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "frenchie_plushie"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/plushie/frenchie_plushie"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "jakob_plushie"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/plushie/jakob_plushie"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "kittyrahh_plushie"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/plushie/kittyrahh_plushie"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "possum_plushie"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/plushie/possum_plushie"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "tp_plushie"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/plushie/tp_plushie"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "spookydreamers_plushie"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/plushie/spookydreamers_plushie"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "fractalcubert_plushie"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/plushie/fractalcubert_plushie"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "quack_plushie"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/plushie/quack_plushie"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "crowche_plushie"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/plushie/crowche_plushie"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "underscore_plushie"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/plushie/underscore_plushie"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_rest"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/couch_rest"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_end_piece"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/couch_end_piece"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_body"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/couch_body"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_arm"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/couch_arm"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_arm_left"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/couch_arm_left"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_arm_right"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/couch_arm_right"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_corner"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/couch_corner"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_single"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/couch_single"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_rest_black"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/black/couch_rest_black"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_end_piece_black"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/black/couch_end_piece_black"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_body_black"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/black/couch_body_black"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_arm_black"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/black/couch_arm_black"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_arm_left_black"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/black/couch_arm_left_black"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_arm_right_black"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/black/couch_arm_right_black"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_corner_black"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/black/couch_corner_black"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_single_black"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/black/couch_single_black"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_rest_pink"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/pink/couch_rest_pink"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_end_piece_pink"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/pink/couch_end_piece_pink"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_body_pink"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/pink/couch_body_pink"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_arm_pink"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/pink/couch_arm_pink"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_arm_end_pink"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/couch_arm_end_pink"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_arm_left_pink"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/pink/couch_arm_left_pink"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_arm_right_pink"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/pink/couch_arm_right_pink"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_corner_pink"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/pink/couch_corner_pink"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_single_pink"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/pink/couch_single_pink"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_rest_green"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/green/couch_rest_green"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_end_piece_green"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/green/couch_end_piece_green"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_body_green"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/green/couch_body_green"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_arm_green"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/green/couch_arm_green"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_arm_left_green"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/green/couch_arm_left_green"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_arm_right_green"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/green/couch_arm_right_green"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_corner_green"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/green/couch_corner_green"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_single_green"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/green/couch_single_green"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_rest_purple"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/purple/couch_rest_purple"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_end_piece_purple"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/purple/couch_end_piece_purple"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_body_purple"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/purple/couch_body_purple"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_arm_purple"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/purple/couch_arm_purple"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_arm_left_purple"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/purple/couch_arm_left_purple"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_arm_right_purple"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/purple/couch_arm_right_purple"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_corner_purple"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/purple/couch_corner_purple"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_single_purple"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/purple/couch_single_purple"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_rest_blue"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/blue/couch_rest_blue"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_end_piece_blue"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/blue/couch_end_piece_blue"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_body_blue"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/blue/couch_body_blue"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_arm_blue"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/blue/couch_arm_blue"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_arm_left_blue"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/blue/couch_arm_left_blue"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_arm_right_blue"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/blue/couch_arm_right_blue"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_corner_blue"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/blue/couch_corner_blue"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_single_blue"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/blue/couch_single_blue"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_rest_yellow"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/yellow/couch_rest_yellow"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_end_piece_yellow"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/yellow/couch_end_piece_yellow"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_body_yellow"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/yellow/couch_body_yellow"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_arm_yellow"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/yellow/couch_arm_yellow"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_arm_left_yellow"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/yellow/couch_arm_left_yellow"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_arm_right_yellow"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/yellow/couch_arm_right_yellow"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_corner_yellow"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/yellow/couch_corner_yellow"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_single_yellow"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/yellow/couch_single_yellow"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_rest_white"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/white/couch_rest_white"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_end_piece_white"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/white/couch_end_piece_white"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_body_white"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/white/couch_body_white"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_arm_white"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/white/couch_arm_white"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_arm_left_white"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/white/couch_arm_left_white"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_arm_right_white"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/white/couch_arm_right_white"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_corner_white"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/white/couch_corner_white"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_single_white"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/white/couch_single_white"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_rest_light_gray"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/light_gray/couch_rest_light_gray"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_end_piece_light_gray"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/light_gray/couch_end_piece_light_gray"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_body_light_gray"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/light_gray/couch_body_light_gray"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_arm_light_gray"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/light_gray/couch_arm_light_gray"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_arm_left_light_gray"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/light_gray/couch_arm_left_light_gray"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_arm_right_light_gray"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/light_gray/couch_arm_right_light_gray"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_corner_light_gray"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/light_gray/couch_corner_light_gray"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_single_light_gray"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/light_gray/couch_single_light_gray"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_rest_gray"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/gray/couch_rest_gray"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_end_piece_gray"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/gray/couch_end_piece_gray"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_body_gray"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/gray/couch_body_gray"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_arm_gray"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/gray/couch_arm_gray"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_arm_left_gray"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/gray/couch_arm_left_gray"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_arm_right_gray"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/gray/couch_arm_right_gray"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_corner_gray"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/gray/couch_corner_gray"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_single_gray"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/gray/couch_single_gray"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_rest_brown"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/brown/couch_rest_brown"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_end_piece_brown"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/brown/couch_end_piece_brown"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_body_brown"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/brown/couch_body_brown"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_arm_brown"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/brown/couch_arm_brown"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_arm_left_brown"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/brown/couch_arm_left_brown"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_arm_right_brown"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/brown/couch_arm_right_brown"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_corner_brown"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/brown/couch_corner_brown"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_single_brown"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/brown/couch_single_brown"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_rest_orange"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/orange/couch_rest_orange"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_end_piece_orange"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/orange/couch_end_piece_orange"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_body_orange"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/orange/couch_body_orange"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_arm_orange"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/orange/couch_arm_orange"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_arm_left_orange"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/orange/couch_arm_left_orange"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_arm_right_orange"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/orange/couch_arm_right_orange"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_corner_orange"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/orange/couch_corner_orange"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_single_orange"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/orange/couch_single_orange"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_rest_lime"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/lime/couch_rest_lime"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_end_piece_lime"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/lime/couch_end_piece_lime"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_body_lime"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/lime/couch_body_lime"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_arm_lime"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/lime/couch_arm_lime"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_arm_left_lime"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/lime/couch_arm_left_lime"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_arm_right_lime"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/lime/couch_arm_right_lime"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_corner_lime"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/lime/couch_corner_lime"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_single_lime"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/lime/couch_single_lime"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_rest_cyan"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/cyan/couch_rest_cyan"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_end_piece_cyan"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/cyan/couch_end_piece_cyan"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_body_cyan"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/cyan/couch_body_cyan"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_arm_cyan"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/cyan/couch_arm_cyan"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_arm_left_cyan"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/cyan/couch_arm_left_cyan"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_arm_right_cyan"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/cyan/couch_arm_right_cyan"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_corner_cyan"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/cyan/couch_corner_cyan"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_single_cyan"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/cyan/couch_single_cyan"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_rest_light_blue"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/light_blue/couch_rest_light_blue"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_end_piece_light_blue"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/light_blue/couch_end_piece_light_blue"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_body_light_blue"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/light_blue/couch_body_light_blue"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_arm_light_blue"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/light_blue/couch_arm_light_blue"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_arm_left_light_blue"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/light_blue/couch_arm_left_light_blue"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_arm_right_light_blue"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/light_blue/couch_arm_right_light_blue"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_corner_light_blue"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/light_blue/couch_corner_light_blue"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_single_light_blue"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/light_blue/couch_single_light_blue"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_rest_magenta"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/magenta/couch_rest_magenta"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_end_piece_magenta"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/magenta/couch_end_piece_magenta"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_body_magenta"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/magenta/couch_body_magenta"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_arm_magenta"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/magenta/couch_arm_magenta"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_arm_left_magenta"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/magenta/couch_arm_left_magenta"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_arm_right_magenta"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/magenta/couch_arm_right_magenta"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_corner_magenta"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/magenta/couch_corner_magenta"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_single_magenta"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/magenta/couch_single_magenta"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "flat_screen"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/tv/flat/flat_screen"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "flat_screen_stand"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/tv/flat/flat_screen_stand"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "lamp"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/lamp/lamp"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "lamp_black"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/lamp/lamp_black"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "lamp_pink"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/lamp/lamp_pink"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "lamp_green"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/lamp/lamp_green"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "lamp_purple"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/lamp/lamp_purple"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "lamp_blue"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/lamp/lamp_blue"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "lamp_yellow"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/lamp/lamp_yellow"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "lamp_light_gray"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/lamp/lamp_light_gray"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "lamp_gray"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/lamp/lamp_gray"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "lamp_white"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/lamp/lamp_white"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "lamp_brown"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/lamp/lamp_brown"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "lamp_orange"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/lamp/lamp_orange"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "lamp_lime"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/lamp/lamp_lime"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "lamp_cyan"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/lamp/lamp_cyan"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "lamp_light_blue"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/lamp/lamp_light_blue"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "lamp_magenta"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/lamp/lamp_magenta"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "long_lamp"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/lamp/long/long_lamp"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "long_lamp_black"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/lamp/long/long_lamp_black"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "long_lamp_pink"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/lamp/long/long_lamp_pink"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "long_lamp_green"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/lamp/long/long_lamp_green"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "long_lamp_purple"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/lamp/long/long_lamp_purple"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "long_lamp_blue"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/lamp/long/long_lamp_blue"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "long_lamp_yellow"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/lamp/long/long_lamp_yellow"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "long_lamp_light_gray"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/lamp/long/long_lamp_light_gray"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "long_lamp_gray"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/lamp/long/long_lamp_gray"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "long_lamp_white"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/lamp/long/long_lamp_white"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "long_lamp_brown"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/lamp/long/long_lamp_brown"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "long_lamp_orange"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/lamp/long/long_lamp_orange"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "long_lamp_lime"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/lamp/long/long_lamp_lime"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "long_lamp_cyan"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/lamp/long/long_lamp_cyan"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "long_lamp_light_blue"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/lamp/long/long_lamp_light_blue"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "long_lamp_magenta"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/lamp/long/long_lamp_magenta"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "trash_can"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/trash_can/trash_can"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "rat"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/extra/rat/rat"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "rat_cage"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/extra/rat/rat_cage"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "bong"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/extra/bong"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "spruce_bed"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/bed/spruce_bed"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "birch_bed"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/bed/birch_bed"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "cherry_bed"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/bed/cherry_bed"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "oak_bed"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/bed/oak_bed"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "jungle_bed"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/bed/jungle_bed"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "acacia_bed"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/bed/acacia_bed"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "dark_oak_bed"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/bed/dark_oak_bed"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "mangrove_bed"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/bed/mangrove_bed"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "pale_oak_bed"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/bed/pale_oak_bed"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "crimson_bed"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/bed/crimson_bed"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "warped_bed"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/bed/warped_bed"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "oak_bed_bunk"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/bed/bunk/oak_bed_bunk"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "acacia_bed_bunk"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/bed/bunk/acacia_bed_bunk"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "birch_bed_bunk"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/bed/bunk/birch_bed_bunk"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "cherry_bed_bunk"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/bed/bunk/cherry_bed_bunk"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "crimson_bed_bunk"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/bed/bunk/crimson_bed_bunk"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "dark_oak_bed_bunk"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/bed/bunk/dark_oak_bed_bunk"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "jungle_bed_bunk"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/bed/bunk/jungle_bed_bunk"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "mangrove_bed_bunk"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/bed/bunk/mangrove_bed_bunk"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "pale_oak_bed_bunk"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/bed/bunk/pale_oak_bed_bunk"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "spruce_bed_bunk"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/bed/bunk/spruce_bed_bunk"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "warped_bed_bunk"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/bed/bunk/warped_bed_bunk"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "oak_bed_decor_right"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/bed/decor/oak_bed_decor_right"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "oak_bed_decor_left"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/bed/decor/oak_bed_decor_left"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "acacia_bed_decor_right"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/bed/decor/acacia_bed_decor_right"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "acacia_bed_decor_left"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/bed/decor/acacia_bed_decor_left"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "birch_bed_decor_right"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/bed/decor/birch_bed_decor_right"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "birch_bed_decor_left"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/bed/decor/birch_bed_decor_left"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "cherry_bed_decor_right"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/bed/decor/cherry_bed_decor_right"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "cherry_bed_decor_left"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/bed/decor/cherry_bed_decor_left"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "crimson_bed_decor_right"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/bed/decor/crimson_bed_decor_right"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "crimson_bed_decor_left"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/bed/decor/crimson_bed_decor_left"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "dark_oak_bed_decor_right"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/bed/decor/dark_oak_bed_decor_right"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "dark_oak_bed_decor_left"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/bed/decor/dark_oak_bed_decor_left"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "jungle_bed_decor_right"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/bed/decor/jungle_bed_decor_right"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "jungle_bed_decor_left"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/bed/decor/jungle_bed_decor_left"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "mangrove_bed_decor_right"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/bed/decor/mangrove_bed_decor_right"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "mangrove_bed_decor_left"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/bed/decor/mangrove_bed_decor_left"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "spruce_bed_decor_right"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/bed/decor/spruce_bed_decor_right"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "spruce_bed_decor_left"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/bed/decor/spruce_bed_decor_left"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "warped_bed_decor_right"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/bed/decor/warped_bed_decor_right"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "warped_bed_decor_left"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/bed/decor/warped_bed_decor_left"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "pale_oak_bed_decor_right"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/bed/decor/pale_oak_bed_decor_right"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "pale_oak_bed_decor_left"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/bed/decor/pale_oak_bed_decor_left"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "trophy_building_grass"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/reward/trophy/trophy_building_grass"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "trophy_building_mushroom"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/reward/trophy/trophy_building_mushroom"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "trophy_building_rubix"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/reward/trophy/trophy_building_rubix"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "trophy_building_rubix_wrong"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/reward/trophy/trophy_building_rubix_wrong"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "trophy_building_rubix_wrong_badly"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/reward/trophy/trophy_building_rubix_wrong_badly"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "trophy_jeopardy"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/reward/trophy/trophy_jeopardy"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "couch_single_updated"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/couch/couch_single_updated"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/paper"
+    }
+  }
+}

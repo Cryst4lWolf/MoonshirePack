@@ -1,0 +1,61 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:custom_model_data",
+    "cases": [
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "pokeball"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/extra/pokeball"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "greatball"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/extra/greatball"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "ultraball"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/extra/ultraball"
+        }
+      },
+      {
+        "when": {
+          "floats": [],
+          "strings": [
+            "masterball"
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/extra/masterball"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/phantom_membrane"
+    }
+  }
+}

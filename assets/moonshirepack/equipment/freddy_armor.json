@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "moonshirepack:freddy_armor"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "moonshirepack:freddy_armor"
+      }
+    ]
+  }
+}

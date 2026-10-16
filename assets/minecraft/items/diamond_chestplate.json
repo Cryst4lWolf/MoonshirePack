@@ -1,0 +1,180 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "cases": [
+      {
+        "when": "santa_hat",
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/hat/santa_hat"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:select",
+      "component": "minecraft:equippable",
+      "property": "minecraft:component",
+      "cases": [
+        {
+          "when": {
+            "slot": "chest",
+            "asset_id": "moonshirepack:invisible"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "moonshirepack:item/armor/invisible/invisible_chestplate"
+          }
+        },
+        {
+          "when": {
+            "slot": "chest",
+            "asset_id": "moonshirepack:moonlight"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "moonshirepack:item/armor/moonlight/moonlight_chestplate"
+          }
+        },
+        {
+          "when": {
+            "slot": "chest",
+            "asset_id": "moonshirepack:summer_shirt_blue"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "moonshirepack:item/summer/summer_shirt_blue"
+          }
+        },
+        {
+          "when": {
+            "slot": "chest",
+            "asset_id": "moonshirepack:summer_arm_floaties"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "moonshirepack:item/summer/summer_arm_floaties"
+          }
+        },
+        {
+          "when": {
+            "slot": "chest",
+            "asset_id": "moonshirepack:summer_arm_floaties_blue"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "moonshirepack:item/summer/summer_arm_floaties_blue"
+          }
+        },
+        {
+          "when": {
+            "slot": "chest",
+            "asset_id": "moonshirepack:summer_pink_flamingo_floatie"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "moonshirepack:item/summer/summer_pink_flamingo_floatie"
+          }
+        },
+        {
+          "when": {
+            "slot": "chest",
+            "asset_id": "moonshirepack:summer_rubber_duck_floatie"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "moonshirepack:item/summer/summer_rubber_duck_floatie"
+          }
+        }
+      ],
+      "fallback": {
+    "type": "minecraft:select",
+    "cases": [
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/diamond_chestplate_quartz_trim"
+        },
+        "when": "minecraft:quartz"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/diamond_chestplate_iron_trim"
+        },
+        "when": "minecraft:iron"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/diamond_chestplate_netherite_trim"
+        },
+        "when": "minecraft:netherite"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/diamond_chestplate_redstone_trim"
+        },
+        "when": "minecraft:redstone"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/diamond_chestplate_copper_trim"
+        },
+        "when": "minecraft:copper"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/diamond_chestplate_gold_trim"
+        },
+        "when": "minecraft:gold"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/diamond_chestplate_emerald_trim"
+        },
+        "when": "minecraft:emerald"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/diamond_chestplate_diamond_trim"
+        },
+        "when": "minecraft:diamond"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/diamond_chestplate_lapis_trim"
+        },
+        "when": "minecraft:lapis"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/diamond_chestplate_amethyst_trim"
+        },
+        "when": "minecraft:amethyst"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/diamond_chestplate_resin_trim"
+        },
+        "when": "minecraft:resin"
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/diamond_chestplate"
+    },
+    "property": "minecraft:trim_material"
+  }
+    }
+  }
+}

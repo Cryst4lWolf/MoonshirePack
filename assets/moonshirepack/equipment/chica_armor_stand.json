@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "moonshirepack:chica_armor_stand"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "moonshirepack:chica_armor"
+      }
+    ]
+  }
+}

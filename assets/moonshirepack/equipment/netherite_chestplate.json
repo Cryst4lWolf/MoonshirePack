@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "moonshirepack:netherite"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "moonshirepack:netherite"
+      }
+    ]
+  }
+}

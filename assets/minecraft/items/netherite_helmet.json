@@ -1,0 +1,241 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "cases": [
+      {
+        "when": "santa_hat",
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/hat/santa_hat"
+        }
+      },
+      {
+        "when": "enderdragon_plushie",
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/furniture/plushie/enderdragon_plushie"
+        }
+      },
+      {
+        "when": "summer_floatie",
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/summer/summer_floatie"
+        }
+      },
+      {
+        "when": "snorkel_hat",
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/summer/snorkel_hat"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:select",
+      "component": "minecraft:equippable",
+      "property": "minecraft:component",
+      "cases": [
+        {
+          "when": {
+            "slot": "head",
+            "asset_id": "moonshirepack:invisible"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "moonshirepack:item/armor/invisible/invisible_helmet"
+          }
+        },
+        {
+          "when": {
+            "slot": "head",
+            "asset_id": "moonshirepack:moonlight"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "moonshirepack:item/armor/moonlight/moonlight_helmet"
+          }
+        },
+        {
+          "when": {
+            "slot": "head",
+            "asset_id": "moonshirepack:summer_sunglasses"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "moonshirepack:item/summer/summer_sunglasses"
+          }
+        },
+        {
+          "when": {
+            "slot": "head",
+            "asset_id": "moonshirepack:freddy_armor"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "moonshirepack:item/event/fall_2026/armor/fnaf/freddy/freddy_armor_helmet"
+          }
+        },
+        {
+          "when": {
+            "slot": "head",
+            "asset_id": "moonshirepack:freddy_armor_stand"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "moonshirepack:item/armor/invisible/invisible_helmet"
+          }
+        },
+        {
+          "when": {
+            "slot": "head",
+            "asset_id": "moonshirepack:bonnie_armor"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "moonshirepack:item/event/fall_2026/armor/fnaf/bonnie/bonnie_armor_helmet"
+          }
+        },
+        {
+          "when": {
+            "slot": "head",
+            "asset_id": "moonshirepack:bonnie_armor_stand"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "moonshirepack:item/armor/invisible/invisible_helmet"
+          }
+        },
+        {
+          "when": {
+            "slot": "head",
+            "asset_id": "moonshirepack:chica_armor"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "moonshirepack:item/event/fall_2026/armor/fnaf/chica/chica_armor_helmet"
+          }
+        },
+        {
+          "when": {
+            "slot": "head",
+            "asset_id": "moonshirepack:chica_armor_stand"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "moonshirepack:item/event/fall_2026/armor/fnaf/chica/chica_armor_stand_helmet"
+          }
+        },
+        {
+          "when": {
+            "slot": "head",
+            "asset_id": "moonshirepack:foxy_armor"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "moonshirepack:item/event/fall_2026/armor/fnaf/foxy/foxy_armor_helmet"
+          }
+        },
+        {
+          "when": {
+            "slot": "head",
+            "asset_id": "moonshirepack:foxy_armor_stand"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "moonshirepack:item/armor/invisible/invisible_helmet"
+          }
+        }
+      ],
+      "fallback": {
+    "type": "minecraft:select",
+    "cases": [
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/netherite_helmet_quartz_trim"
+        },
+        "when": "minecraft:quartz"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/netherite_helmet_iron_trim"
+        },
+        "when": "minecraft:iron"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/netherite_helmet_netherite_trim"
+        },
+        "when": "minecraft:netherite"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/netherite_helmet_redstone_trim"
+        },
+        "when": "minecraft:redstone"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/netherite_helmet_copper_trim"
+        },
+        "when": "minecraft:copper"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/netherite_helmet_gold_trim"
+        },
+        "when": "minecraft:gold"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/netherite_helmet_emerald_trim"
+        },
+        "when": "minecraft:emerald"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/netherite_helmet_diamond_trim"
+        },
+        "when": "minecraft:diamond"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/netherite_helmet_lapis_trim"
+        },
+        "when": "minecraft:lapis"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/netherite_helmet_amethyst_trim"
+        },
+        "when": "minecraft:amethyst"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/netherite_helmet_resin_trim"
+        },
+        "when": "minecraft:resin"
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/netherite_helmet"
+    },
+    "property": "minecraft:trim_material"
+  }
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 96],
+	"textures": {
+		"1": "moonshirepack:item/cards/card_wrapper"
+	},
+	"elements": [
+		{
+			"name": "card_wrapper_0",
+			"from": [0, -4.5, 7.25],
+			"to": [16, 14, 8.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 7]},
+			"faces": {
+				"north": {"uv": [16, 1.33333, 0, 14.66667], "texture": "#1"},
+				"east": {"uv": [15.75, 1.33333, 16, 14.66667], "texture": "#1"},
+				"south": {"uv": [0, 1.33333, 16, 14.66667], "texture": "#1"},
+				"west": {"uv": [0.25, 1.33333, 0, 14.66667], "texture": "#1"},
+				"up": {"uv": [16, 1.33333, 0, 1.5], "texture": "#1"},
+				"down": {"uv": [0, 14.5, 16, 14.66667], "texture": "#1"}
+			}
+		},
+		{
+			"name": "card_wrapper_1",
+			"from": [0.25, -7, 7.5],
+			"to": [15.75, -4.5, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, -3, 7]},
+			"faces": {
+				"north": {"uv": [16, 14.66667, 0, 16], "texture": "#1"},
+				"east": {"uv": [16, 14.66667, 15.75, 16], "texture": "#1"},
+				"south": {"uv": [16, 14.66667, 0, 16], "texture": "#1"},
+				"west": {"uv": [0.25, 14.66667, 0, 16], "texture": "#1"},
+				"up": {"uv": [16, 14.66667, 0, 16], "texture": "#1"},
+				"down": {"uv": [0, 15.83333, 16, 16], "texture": "#1"}
+			}
+		},
+		{
+			"name": "card_wrapper_2",
+			"from": [16.25, 8, 7.5],
+			"to": [31.75, 10.5, 8],
+			"rotation": {"x": 0, "y": 0, "z": -180, "origin": [16, 12, 7]},
+			"faces": {
+				"north": {"uv": [16, 14.66667, 0, 16], "texture": "#1"},
+				"east": {"uv": [16, 14.66667, 15.75, 16], "texture": "#1"},
+				"south": {"uv": [16, 14.66667, 0, 16], "texture": "#1"},
+				"west": {"uv": [0.25, 14.66667, 0, 16], "texture": "#1"},
+				"up": {"uv": [16, 14.66667, 0, 16], "texture": "#1"},
+				"down": {"uv": [0, 15.83333, 16, 16], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 3.75, 0],
+			"scale": [0.25, 0.3, 0.4]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 3.75, 0],
+			"scale": [0.25, 0.3, 0.4]
+		},
+		"firstperson_righthand": {
+			"rotation": [-10, 0, 0],
+			"translation": [14.25, 2.5, -14]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-10, 0, 0],
+			"translation": [14.25, 2.5, -14]
+		},
+		"ground": {
+			"translation": [0, 4.25, 0],
+			"scale": [0.35, 0.35, 0.51]
+		},
+		"gui": {
+			"rotation": [-15, -15, 0],
+			"translation": [0, 2, 0],
+			"scale": [0.65, 0.65, 0.65]
+		},
+		"head": {
+			"rotation": [90, 0, 0],
+			"translation": [0, 6.5, 1.5],
+			"scale": [0.4, 0.4, 0.5]
+		},
+		"fixed": {
+			"rotation": [0, -180, 0],
+			"translation": [0, 2.5, 0.75],
+			"scale": [0.75, 0.75, 0.75]
+		}
+	},
+	"groups": [
+		{
+			"name": "card_wrapper",
+			"origin": [8, 8, 8],
+			"scope": 0,
+			"color": 0,
+			"children": [0, 1, 2]
+		}
+	]
+}

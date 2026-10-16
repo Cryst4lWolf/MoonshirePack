@@ -1,0 +1,28 @@
+{
+  "providers": [
+    {
+      "type": "bitmap", 
+      "file": "minecraft:gui/example.png",
+      "ascent": 13,
+      "height": 139,
+      "chars": [""]
+    },
+    {
+      "type": "bitmap", 
+      "file": "minecraft:gui/server.png",
+      "ascent": 40,
+      "height": 55,
+      "chars": ["ꙮ"]
+    },
+    {
+      "type": "space",
+      "advances": {
+        "\uF821": -1,
+        "\uF822": -2,
+        "\uF824": -4,
+        "\uF828": -8,
+        "\uF82F": -16
+      }
+    }
+  ]
+}
