@@ -1,0 +1,29 @@
+name: Generate ZIP Release
+
+on:
+  push:
+    branches: [ "master" ]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Create ZIP File
+        run: |
+          zip -r "${GITHUB_REPOSITORY##*/}".zip . \
+            -x ".git/*" ".github/*"
+
+      - name: Update Automatic Release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: latest
+          name: Latest Automated Build
+          draft: false
+          prerelease: false
+          files: ${{ github.event.repository.name }}.zip
