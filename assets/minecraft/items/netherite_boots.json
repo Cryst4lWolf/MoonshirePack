@@ -74,7 +74,7 @@
           },
           "model": {
             "type": "minecraft:model",
-            "model": "moonshirepack:item/armor/moonlight/moonlight_boots"
+            "model": "moonshirepack:item/event/fall_2026/armor/fnaf/freddy/freddy_armor_boots"
           }
         },
         {
@@ -84,7 +84,7 @@
           },
           "model": {
             "type": "minecraft:model",
-            "model": "moonshirepack:item/armor/invisible/invisible_boots"
+            "model": "moonshirepack:item/event/fall_2026/armor/fnaf/freddy/freddy_armor_boots"
           }
         },
         {
@@ -94,7 +94,7 @@
           },
           "model": {
             "type": "minecraft:model",
-            "model": "moonshirepack:item/armor/moonlight/moonlight_boots"
+            "model": "moonshirepack:item/event/fall_2026/armor/fnaf/bonnie/bonnie_armor_boots"
           }
         },
         {
@@ -104,7 +104,7 @@
           },
           "model": {
             "type": "minecraft:model",
-            "model": "moonshirepack:item/armor/invisible/invisible_boots"
+            "model": "moonshirepack:item/event/fall_2026/armor/fnaf/bonnie/bonnie_armor_boots"
           }
         },
         {
@@ -134,7 +134,7 @@
           },
           "model": {
             "type": "minecraft:model",
-            "model": "moonshirepack:item/armor/moonlight/moonlight_boots"
+            "model": "moonshirepack:item/event/fall_2026/armor/fnaf/foxy/foxy_armor_boots"
           }
         },
         {
@@ -144,7 +144,7 @@
           },
           "model": {
             "type": "minecraft:model",
-            "model": "moonshirepack:item/armor/invisible/invisible_boots"
+            "model": "moonshirepack:item/event/fall_2026/armor/fnaf/foxy/foxy_armor_boots"
           }
         }
       ],

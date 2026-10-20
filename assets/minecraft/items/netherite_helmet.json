@@ -85,7 +85,7 @@
           },
           "model": {
             "type": "minecraft:model",
-            "model": "moonshirepack:item/armor/invisible/invisible_helmet"
+            "model": "moonshirepack:item/event/fall_2026/armor/fnaf/freddy/freddy_armor_stand_helmet"
           }
         },
         {
@@ -105,7 +105,7 @@
           },
           "model": {
             "type": "minecraft:model",
-            "model": "moonshirepack:item/armor/invisible/invisible_helmet"
+            "model": "moonshirepack:item/event/fall_2026/armor/fnaf/bonnie/bonnie_armor_stand_helmet"
           }
         },
         {
@@ -145,7 +145,7 @@
           },
           "model": {
             "type": "minecraft:model",
-            "model": "moonshirepack:item/armor/invisible/invisible_helmet"
+            "model": "moonshirepack:item/event/fall_2026/armor/fnaf/foxy/foxy_armor_stand_helmet"
           }
         }
       ],

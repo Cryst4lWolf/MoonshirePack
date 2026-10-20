@@ -12,7 +12,7 @@
       "file": "minecraft:gui/server.png",
       "ascent": 40,
       "height": 55,
-      "chars": ["ꙮ"]
+      "chars": [""]
     },
     {
       "type": "space",
@@ -26,3 +26,4 @@
     }
   ]
 }
+

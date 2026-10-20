@@ -1,0 +1,173 @@
+{
+	"format_version": "26.3",
+	"credit": "Made with Blockbench",
+	"texture_size": [8, 8],
+	"textures": {
+		"0": "moonshirepack:item/event/fall_2026/armor/fnaf/bonnie/armor_stand/bonnie_armor_stand_helmet_front",
+		"1": "moonshirepack:item/event/fall_2026/armor/fnaf/bonnie/armor_stand/bonnie_armor_stand_helmet_side",
+		"2": "moonshirepack:item/event/fall_2026/armor/fnaf/bonnie/armor_stand/bonnie_armor_stand_helmet_back",
+		"3": "moonshirepack:item/event/fall_2026/armor/fnaf/bonnie/armor_stand/bonnie_armor_stand_helmet_top",
+		"4": "moonshirepack:item/event/fall_2026/armor/fnaf/bonnie/armor_stand/bonnie_armor_stand_helmet_bottom",
+		"particle": "moonshirepack:item/event/fall_2026/armor/fnaf/bonnie/armor_stand/bonnie_armor_stand_helmet_front"
+	},
+	"elements": [
+		{
+			"name": "chica_armor_stand_helmet_front",
+			"from": [0, 0, 0],
+			"to": [16, 16, 2],
+			"faces": {
+				"north": {"uv": [16, 0, 0, 16], "texture": "#0"},
+				"east": {"uv": [14, 0, 16, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 2, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 2], "texture": "#0"},
+				"down": {"uv": [0, 14, 16, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "chica_armor_stand_helmet_side",
+			"from": [0, 0, 2],
+			"to": [2, 16, 14],
+			"faces": {
+				"north": {"uv": [12, 0, 14, 16], "texture": "#1"},
+				"east": {"uv": [2, 0, 14, 16], "texture": "#1"},
+				"south": {"uv": [2, 0, 4, 16], "texture": "#1"},
+				"west": {"uv": [14, 0, 2, 16], "texture": "#1"},
+				"up": {"uv": [2, 0, 14, 2], "rotation": 270, "texture": "#1"},
+				"down": {"uv": [2, 14, 14, 16], "rotation": 90, "texture": "#1"}
+			}
+		},
+		{
+			"name": "chica_armor_stand_helmet_side",
+			"from": [14, 0, 2],
+			"to": [16, 16, 14],
+			"rotation": {"angle": 0, "axis": "y", "origin": [14, 0, 0]},
+			"faces": {
+				"north": {"uv": [12, 0, 14, 16], "texture": "#1"},
+				"east": {"uv": [2, 0, 14, 16], "texture": "#1"},
+				"south": {"uv": [2, 0, 4, 16], "texture": "#1"},
+				"west": {"uv": [14, 0, 2, 16], "texture": "#1"},
+				"up": {"uv": [2, 0, 14, 2], "rotation": 270, "texture": "#1"},
+				"down": {"uv": [2, 14, 14, 16], "rotation": 90, "texture": "#1"}
+			}
+		},
+		{
+			"name": "chica_armor_stand_helmet_back",
+			"from": [0, 0, 14],
+			"to": [16, 16, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 14]},
+			"faces": {
+				"north": {"uv": [16, 0, 0, 16], "texture": "#2"},
+				"east": {"uv": [14, 0, 16, 16], "texture": "#2"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"west": {"uv": [0, 0, 2, 16], "texture": "#2"},
+				"up": {"uv": [0, 0, 16, 2], "texture": "#2"},
+				"down": {"uv": [0, 14, 16, 16], "texture": "#2"}
+			}
+		},
+		{
+			"name": "chica_armor_stand_helmet_top",
+			"from": [2, 14, 2],
+			"to": [14, 16, 14],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 14, 0]},
+			"faces": {
+				"north": {"uv": [14, 2, 2, 4], "texture": "#3"},
+				"east": {"uv": [12, 2, 14, 14], "rotation": 90, "texture": "#3"},
+				"south": {"uv": [2, 12, 14, 14], "texture": "#3"},
+				"west": {"uv": [2, 2, 4, 14], "rotation": 270, "texture": "#3"},
+				"up": {"uv": [14, 14, 2, 2], "texture": "#3"},
+				"down": {"uv": [2, 14, 14, 2], "texture": "#3"}
+			}
+		},
+		{
+			"name": "chica_armor_stand_helmet_bottom",
+			"from": [2, 0, 2],
+			"to": [14, 2, 14],
+			"faces": {
+				"north": {"uv": [14, 2, 2, 4], "texture": "#4"},
+				"east": {"uv": [12, 2, 14, 14], "rotation": 90, "texture": "#4"},
+				"south": {"uv": [2, 12, 14, 14], "texture": "#4"},
+				"west": {"uv": [2, 2, 4, 14], "rotation": 270, "texture": "#4"},
+				"up": {"uv": [2, 2, 14, 14], "texture": "#4"},
+				"down": {"uv": [2, 14, 14, 2], "texture": "#4"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [90, 0, 0],
+			"translation": [0, -1.75, -2],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [90, 0, 0],
+			"translation": [0, -1.75, -2],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"firstperson_righthand": {
+			"rotation": [15, -2.5, 0],
+			"translation": [-1.5, 4, 1],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"firstperson_lefthand": {
+			"rotation": [15, -2.5, 0],
+			"translation": [-1.5, 4, 1],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"ground": {
+			"translation": [0, 0.75, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [15, 135, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"head": {
+			"translation": [0, 1, 0]
+		},
+		"fixed": {
+			"translation": [0, 0, -5],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"on_shelf": {
+			"rotation": [-180, 0, -180]
+		}
+	},
+	"groups": [
+		{
+			"name": "chica_armor_stand_helmet_front",
+			"origin": [8, 8, 8],
+			"scope": 0,
+			"color": 0,
+			"children": [0]
+		},
+		{
+			"name": "chica_armor_stand_helmet_side",
+			"origin": [8, 8, 8],
+			"scope": 0,
+			"color": 0,
+			"children": [1, 2]
+		},
+		{
+			"name": "chica_armor_stand_helmet_back",
+			"origin": [8, 8, 8],
+			"scope": 0,
+			"color": 0,
+			"children": [3]
+		},
+		{
+			"name": "chica_armor_stand_helmet_top",
+			"origin": [8, 8, 8],
+			"scope": 0,
+			"color": 0,
+			"children": [4]
+		},
+		{
+			"name": "chica_armor_stand_helmet_bottom",
+			"origin": [8, 8, 8],
+			"scope": 0,
+			"color": 0,
+			"children": [5]
+		}
+	]
+}

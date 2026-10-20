@@ -1,0 +1,264 @@
+{
+	"format_version": "26.3",
+	"credit": "Made with Blockbench",
+	"texture_size": [8, 8],
+	"textures": {
+		"0": "moonshirepack:item/event/fall_2026/armor/fnaf/bonnie/bonnie_armor_boots_back",
+		"1": "moonshirepack:item/event/fall_2026/armor/fnaf/bonnie/bonnie_armor_boots_front",
+		"2": "moonshirepack:item/event/fall_2026/armor/fnaf/bonnie/bonnie_armor_boots_side",
+		"3": "moonshirepack:item/event/fall_2026/armor/fnaf/bonnie/bonnie_armor_boots_bottom",
+		"particle": "moonshirepack:item/event/fall_2026/armor/fnaf/bonnie/bonnie_armor_boots_back"
+	},
+	"elements": [
+		{
+			"name": "chica_armor_boots_back",
+			"from": [10, 0, 10],
+			"to": [18, 12, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6, 0, 10]},
+			"faces": {
+				"north": {"uv": [12, 4, 4, 16], "texture": "#0"},
+				"east": {"uv": [10, 4, 12, 16], "texture": "#0"},
+				"south": {"uv": [4, 4, 12, 16], "texture": "#0"},
+				"west": {"uv": [4, 4, 6, 16], "texture": "#0"},
+				"up": {"uv": [4, 4, 12, 6], "texture": "#0"},
+				"down": {"uv": [4, 14, 12, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "chica_armor_boots_back",
+			"from": [-2, 0, 10],
+			"to": [6, 12, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-6, 0, 10]},
+			"faces": {
+				"north": {"uv": [12, 4, 4, 16], "texture": "#0"},
+				"east": {"uv": [10, 4, 12, 16], "texture": "#0"},
+				"south": {"uv": [4, 4, 12, 16], "texture": "#0"},
+				"west": {"uv": [4, 4, 6, 16], "texture": "#0"},
+				"up": {"uv": [4, 4, 12, 6], "texture": "#0"},
+				"down": {"uv": [4, 14, 12, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "chica_armor_boots_front",
+			"from": [10, 0, 4],
+			"to": [18, 12, 6],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6, 0, 4]},
+			"faces": {
+				"north": {"uv": [12, 4, 4, 16], "texture": "#1"},
+				"east": {"uv": [10, 4, 12, 16], "texture": "#1"},
+				"south": {"uv": [4, 4, 12, 16], "texture": "#1"},
+				"west": {"uv": [4, 4, 6, 16], "texture": "#1"},
+				"up": {"uv": [4, 4, 12, 6], "texture": "#1"},
+				"down": {"uv": [4, 14, 12, 16], "texture": "#1"}
+			}
+		},
+		{
+			"name": "chica_armor_boots_front",
+			"from": [-2, 0, 4],
+			"to": [6, 12, 6],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-6, 0, 4]},
+			"faces": {
+				"north": {"uv": [12, 4, 4, 16], "texture": "#1"},
+				"east": {"uv": [10, 4, 12, 16], "texture": "#1"},
+				"south": {"uv": [4, 4, 12, 16], "texture": "#1"},
+				"west": {"uv": [4, 4, 6, 16], "texture": "#1"},
+				"up": {"uv": [4, 4, 12, 6], "texture": "#1"},
+				"down": {"uv": [4, 14, 12, 16], "texture": "#1"}
+			}
+		},
+		{
+			"name": "chica_armor_boots_side",
+			"from": [16, 0, 16],
+			"to": [20, 12, 18],
+			"rotation": {"x": 0, "y": 90, "z": 0, "origin": [10, 0, 16]},
+			"faces": {
+				"north": {"uv": [10, 4, 6, 16], "texture": "#2"},
+				"east": {"uv": [8, 4, 10, 16], "texture": "#2"},
+				"south": {"uv": [6, 4, 10, 16], "texture": "#2"},
+				"west": {"uv": [6, 4, 8, 16], "texture": "#2"},
+				"up": {"uv": [6, 4, 10, 6], "texture": "#2"},
+				"down": {"uv": [6, 14, 10, 16], "texture": "#2"}
+			}
+		},
+		{
+			"name": "chica_armor_boots_side",
+			"from": [4, 0, 16],
+			"to": [8, 12, 18],
+			"rotation": {"x": 0, "y": 90, "z": 0, "origin": [-2, 0, 16]},
+			"faces": {
+				"north": {"uv": [10, 4, 6, 16], "texture": "#2"},
+				"east": {"uv": [8, 4, 10, 16], "texture": "#2"},
+				"south": {"uv": [6, 4, 10, 16], "texture": "#2"},
+				"west": {"uv": [6, 4, 8, 16], "texture": "#2"},
+				"up": {"uv": [6, 4, 10, 6], "texture": "#2"},
+				"down": {"uv": [6, 14, 10, 16], "texture": "#2"}
+			}
+		},
+		{
+			"name": "chica_armor_boots_side",
+			"from": [22, 0, 16],
+			"to": [26, 12, 18],
+			"rotation": {"x": 0, "y": 90, "z": 0, "origin": [16, 0, 16]},
+			"faces": {
+				"north": {"uv": [10, 4, 6, 16], "texture": "#2"},
+				"east": {"uv": [8, 4, 10, 16], "texture": "#2"},
+				"south": {"uv": [6, 4, 10, 16], "texture": "#2"},
+				"west": {"uv": [6, 4, 8, 16], "texture": "#2"},
+				"up": {"uv": [6, 4, 10, 6], "texture": "#2"},
+				"down": {"uv": [6, 14, 10, 16], "texture": "#2"}
+			}
+		},
+		{
+			"name": "chica_armor_boots_side",
+			"from": [10, 0, 16],
+			"to": [14, 12, 18],
+			"rotation": {"x": 0, "y": 90, "z": 0, "origin": [4, 0, 16]},
+			"faces": {
+				"north": {"uv": [10, 4, 6, 16], "texture": "#2"},
+				"east": {"uv": [8, 4, 10, 16], "texture": "#2"},
+				"south": {"uv": [6, 4, 10, 16], "texture": "#2"},
+				"west": {"uv": [6, 4, 8, 16], "texture": "#2"},
+				"up": {"uv": [6, 4, 10, 6], "texture": "#2"},
+				"down": {"uv": [6, 14, 10, 16], "texture": "#2"}
+			}
+		},
+		{
+			"name": "chica_armor_boots_bottom",
+			"from": [12, 0, 6],
+			"to": [16, 2, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6, 0, -4]},
+			"faces": {
+				"north": {"uv": [10, 10, 6, 12], "texture": "#3"},
+				"east": {"uv": [8, 10, 10, 14], "rotation": 90, "texture": "#3"},
+				"south": {"uv": [6, 12, 10, 14], "texture": "#3"},
+				"west": {"uv": [6, 10, 8, 14], "rotation": 270, "texture": "#3"},
+				"up": {"uv": [6, 10, 10, 14], "texture": "#3"},
+				"down": {"uv": [6, 14, 10, 10], "texture": "#3"}
+			}
+		},
+		{
+			"name": "chica_armor_boots_bottom",
+			"from": [0, 0, 6],
+			"to": [4, 2, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-6, 0, -4]},
+			"faces": {
+				"north": {"uv": [10, 10, 6, 12], "texture": "#3"},
+				"east": {"uv": [8, 10, 10, 14], "rotation": 90, "texture": "#3"},
+				"south": {"uv": [6, 12, 10, 14], "texture": "#3"},
+				"west": {"uv": [6, 10, 8, 14], "rotation": 270, "texture": "#3"},
+				"up": {"uv": [6, 10, 10, 14], "texture": "#3"},
+				"down": {"uv": [6, 14, 10, 10], "texture": "#3"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [90, 0, 0],
+			"translation": [0, -1.75, -1.5],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [90, 0, 0],
+			"translation": [0, -1.75, -1.5],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"firstperson_righthand": {
+			"rotation": [15, -2.5, 0],
+			"translation": [-1.5, 3.5, 1],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"firstperson_lefthand": {
+			"rotation": [15, -2.5, 0],
+			"translation": [-1.5, 3.5, 1],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"ground": {
+			"translation": [0, 2, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [15, 135, 0],
+			"translation": [0.25, 1.5, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"head": {
+			"translation": [0, 2.5, 3.5]
+		},
+		"fixed": {
+			"translation": [0, 0, -1],
+			"scale": [0.5, 0.5, 0.5]
+		}
+	},
+	"groups": [
+		{
+			"name": "chica_armor_boots_back",
+			"origin": [8, 8, 8],
+			"scope": 0,
+			"color": 0,
+			"children": [0]
+		},
+		{
+			"name": "chica_armor_boots_back",
+			"origin": [8, 8, 8],
+			"scope": 0,
+			"color": 0,
+			"children": [1]
+		},
+		{
+			"name": "chica_armor_boots_front",
+			"origin": [8, 8, 8],
+			"scope": 0,
+			"color": 0,
+			"children": [2]
+		},
+		{
+			"name": "chica_armor_boots_front",
+			"origin": [8, 8, 8],
+			"scope": 0,
+			"color": 0,
+			"children": [3]
+		},
+		{
+			"name": "chica_armor_boots_side",
+			"origin": [8, 8, 8],
+			"scope": 0,
+			"color": 0,
+			"children": [4]
+		},
+		{
+			"name": "chica_armor_boots_side",
+			"origin": [8, 8, 8],
+			"scope": 0,
+			"color": 0,
+			"children": [5]
+		},
+		{
+			"name": "chica_armor_boots_side",
+			"origin": [8, 8, 8],
+			"scope": 0,
+			"color": 0,
+			"children": [6]
+		},
+		{
+			"name": "chica_armor_boots_side",
+			"origin": [8, 8, 8],
+			"scope": 0,
+			"color": 0,
+			"children": [7]
+		},
+		{
+			"name": "chica_armor_boots_bottom",
+			"origin": [8, 8, 8],
+			"scope": 0,
+			"color": 0,
+			"children": [8]
+		},
+		{
+			"name": "chica_armor_boots_bottom",
+			"origin": [8, 8, 8],
+			"scope": 0,
+			"color": 0,
+			"children": [9]
+		}
+	]
+}
