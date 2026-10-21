@@ -66,6 +66,142 @@
             "type": "minecraft:model",
             "model": "moonshirepack:item/summer/summer_skirt_pink"
           }
+        },
+        {
+          "when": {
+            "slot": "legs",
+            "asset_id": "moonshirepack:freddy_armor"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "moonshirepack:item/event/fall_2026/armor/fnaf/freddy/freddy_armor_leggings"
+          }
+        },
+        {
+          "when": {
+            "slot": "legs",
+            "asset_id": "moonshirepack:freddy_armor_stand"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "moonshirepack:item/event/fall_2026/armor/fnaf/freddy/freddy_armor_leggings"
+          }
+        },
+        {
+          "when": {
+            "slot": "legs",
+            "asset_id": "moonshirepack:bonnie_armor"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "moonshirepack:item/event/fall_2026/armor/fnaf/bonnie/bonnie_armor_leggings"
+          }
+        },
+        {
+          "when": {
+            "slot": "legs",
+            "asset_id": "moonshirepack:bonnie_armor_stand"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "moonshirepack:item/event/fall_2026/armor/fnaf/bonnie/bonnie_armor_leggings"
+          }
+        },
+        {
+          "when": {
+            "slot": "legs",
+            "asset_id": "moonshirepack:chica_armor"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "moonshirepack:item/event/fall_2026/armor/fnaf/chica/chica_armor_leggings"
+          }
+        },
+        {
+          "when": {
+            "slot": "legs",
+            "asset_id": "moonshirepack:chica_armor_stand"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "moonshirepack:item/event/fall_2026/armor/fnaf/chica/chica_armor_leggings"
+          }
+        },
+        {
+          "when": {
+            "slot": "legs",
+            "asset_id": "moonshirepack:foxy_armor"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "moonshirepack:item/event/fall_2026/armor/fnaf/foxy/foxy_armor_leggings"
+          }
+        },
+        {
+          "when": {
+            "slot": "legs",
+            "asset_id": "moonshirepack:foxy_armor_stand"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "moonshirepack:item/event/fall_2026/armor/fnaf/foxy/foxy_armor_leggings"
+          }
+        }
+      ],
+    "fallback": {
+      "type": "minecraft:select",
+      "component": "minecraft:equippable",
+      "property": "minecraft:component",
+      "cases": [
+        {
+          "when": {
+            "slot": "legs",
+            "asset_id": "moonshirepack:invisible"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "moonshirepack:item/armor/invisible/invisible_leggings"
+          }
+        },
+        {
+          "when": {
+            "slot": "legs",
+            "asset_id": "moonshirepack:moonlight"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "moonshirepack:item/armor/moonlight/moonlight_leggings"
+          }
+        },
+        {
+          "when": {
+            "slot": "legs",
+            "asset_id": "moonshirepack:summer_swim_trunks_red"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "moonshirepack:item/summer/summer_swim_trunks_red"
+          }
+        },
+        {
+          "when": {
+            "slot": "legs",
+            "asset_id": "moonshirepack:summer_swim_trunks_blue"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "moonshirepack:item/summer/summer_swim_trunks_blue"
+          }
+        },
+        {
+          "when": {
+            "slot": "legs",
+            "asset_id": "moonshirepack:summer_skirt_pink"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "moonshirepack:item/summer/summer_skirt_pink"
+          }
         }
       ],
       "fallback": {
@@ -156,5 +292,6 @@
     "property": "minecraft:trim_material"
   }
     }
+  }
   }
 }
