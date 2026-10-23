@@ -31,13 +31,6 @@
           "type": "minecraft:model",
           "model": "moonshirepack:item/summer/snorkel_hat"
         }
-      },
-      {
-        "when": "pirate_hat",
-        "model": {
-          "type": "minecraft:model",
-          "model": "moonshirepack:item/reward/hat/pirate_hat"
-        }
       }
     ],
     "fallback": {
@@ -73,6 +66,86 @@
           "model": {
             "type": "minecraft:model",
             "model": "moonshirepack:item/summer/summer_sunglasses"
+          }
+        },
+        {
+          "when": {
+            "slot": "head",
+            "asset_id": "moonshirepack:freddy_armor"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "moonshirepack:item/event/fall_2026/armor/fnaf/freddy/freddy_armor_helmet"
+          }
+        },
+        {
+          "when": {
+            "slot": "head",
+            "asset_id": "moonshirepack:freddy_armor_stand"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "moonshirepack:item/event/fall_2026/armor/fnaf/freddy/freddy_armor_stand_helmet"
+          }
+        },
+        {
+          "when": {
+            "slot": "head",
+            "asset_id": "moonshirepack:bonnie_armor"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "moonshirepack:item/event/fall_2026/armor/fnaf/bonnie/bonnie_armor_helmet"
+          }
+        },
+        {
+          "when": {
+            "slot": "head",
+            "asset_id": "moonshirepack:bonnie_armor_stand"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "moonshirepack:item/event/fall_2026/armor/fnaf/bonnie/bonnie_armor_stand_helmet"
+          }
+        },
+        {
+          "when": {
+            "slot": "head",
+            "asset_id": "moonshirepack:chica_armor"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "moonshirepack:item/event/fall_2026/armor/fnaf/chica/chica_armor_helmet"
+          }
+        },
+        {
+          "when": {
+            "slot": "head",
+            "asset_id": "moonshirepack:chica_armor_stand"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "moonshirepack:item/event/fall_2026/armor/fnaf/chica/chica_armor_stand_helmet"
+          }
+        },
+        {
+          "when": {
+            "slot": "head",
+            "asset_id": "moonshirepack:foxy_armor"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "moonshirepack:item/event/fall_2026/armor/fnaf/foxy/foxy_armor_helmet"
+          }
+        },
+        {
+          "when": {
+            "slot": "head",
+            "asset_id": "moonshirepack:foxy_armor_stand"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "moonshirepack:item/event/fall_2026/armor/fnaf/foxy/foxy_armor_stand_helmet"
           }
         }
       ],

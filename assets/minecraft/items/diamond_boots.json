@@ -66,6 +66,86 @@
             "type": "minecraft:model",
             "model": "moonshirepack:item/summer/summer_possum_floppers"
           }
+        },
+        {
+          "when": {
+            "slot": "feet",
+            "asset_id": "moonshirepack:freddy_armor"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "moonshirepack:item/event/fall_2026/armor/fnaf/freddy/freddy_armor_boots"
+          }
+        },
+        {
+          "when": {
+            "slot": "feet",
+            "asset_id": "moonshirepack:freddy_armor_stand"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "moonshirepack:item/event/fall_2026/armor/fnaf/freddy/freddy_armor_boots"
+          }
+        },
+        {
+          "when": {
+            "slot": "feet",
+            "asset_id": "moonshirepack:bonnie_armor"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "moonshirepack:item/event/fall_2026/armor/fnaf/bonnie/bonnie_armor_boots"
+          }
+        },
+        {
+          "when": {
+            "slot": "feet",
+            "asset_id": "moonshirepack:bonnie_armor_stand"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "moonshirepack:item/event/fall_2026/armor/fnaf/bonnie/bonnie_armor_boots"
+          }
+        },
+        {
+          "when": {
+            "slot": "feet",
+            "asset_id": "moonshirepack:chica_armor"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "moonshirepack:item/event/fall_2026/armor/fnaf/chica/chica_armor_boots"
+          }
+        },
+        {
+          "when": {
+            "slot": "feet",
+            "asset_id": "moonshirepack:chica_armor_stand"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "moonshirepack:item/event/fall_2026/armor/fnaf/chica/chica_armor_boots"
+          }
+        },
+        {
+          "when": {
+            "slot": "feet",
+            "asset_id": "moonshirepack:foxy_armor"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "moonshirepack:item/event/fall_2026/armor/fnaf/foxy/foxy_armor_boots"
+          }
+        },
+        {
+          "when": {
+            "slot": "feet",
+            "asset_id": "moonshirepack:foxy_armor_stand"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "moonshirepack:item/event/fall_2026/armor/fnaf/foxy/foxy_armor_boots"
+          }
         }
       ],
       "fallback": {
