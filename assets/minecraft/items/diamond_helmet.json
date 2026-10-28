@@ -31,6 +31,13 @@
           "type": "minecraft:model",
           "model": "moonshirepack:item/summer/snorkel_hat"
         }
+      },
+      {
+        "when": "pirate_hat",
+        "model": {
+          "type": "minecraft:model",
+          "model": "moonshirepack:item/reward/hat/pirate_hat"
+        }
       }
     ],
     "fallback": {
